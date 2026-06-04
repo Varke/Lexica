@@ -129,9 +129,13 @@ export function StudySession({
         <Progress value={progress} />
       </div>
 
-      {/* Карточка-переворот: клик или Пробел переворачивает */}
+      {/* Карточка-переворот: клик или Пробел переворачивает.
+          key по id — чтобы при переходе к новой карточке элемент пересоздавался
+          и сразу показывал лицевую сторону без обратной анимации (иначе на долю
+          секунды виден перевод следующей карточки во время поворота). */}
       <div className="[perspective:1200px]">
         <div
+          key={current.id}
           onClick={() => setRevealed((r) => !r)}
           className={cn(
             "relative h-64 w-full cursor-pointer transition-transform duration-500 [transform-style:preserve-3d]",
