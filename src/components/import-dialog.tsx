@@ -109,7 +109,7 @@ export function ImportDialog({ deckId }: { deckId: string }) {
           Импорт слов
         </Button>
       </DialogTrigger>
-      <DialogContent className="sm:max-w-lg">
+      <DialogContent className="flex max-h-[calc(100dvh-2rem)] flex-col sm:max-w-lg">
         <DialogHeader>
           <DialogTitle>Импорт карточек</DialogTitle>
           <DialogDescription>
@@ -117,14 +117,18 @@ export function ImportDialog({ deckId }: { deckId: string }) {
           </DialogDescription>
         </DialogHeader>
 
-        <Tabs defaultValue="batch">
+        <Tabs defaultValue="batch" className="flex min-h-0 flex-1 flex-col">
           <TabsList className="grid w-full grid-cols-2">
             <TabsTrigger value="batch">Пачкой</TabsTrigger>
             <TabsTrigger value="single">По одной</TabsTrigger>
           </TabsList>
 
           {/* Пачкой */}
-          <TabsContent value="batch" className="space-y-3">
+          <TabsContent
+            value="batch"
+            className="flex min-h-0 flex-1 flex-col gap-3"
+          >
+            <div className="min-h-0 flex-1 space-y-3 overflow-y-auto">
             <p className="text-sm text-muted-foreground">
               Каждая строка — одна карточка. Разделитель: <code>таб</code>,{" "}
               <code> - </code>, <code> — </code>, <code>;</code>,{" "}
@@ -182,6 +186,7 @@ export function ImportDialog({ deckId }: { deckId: string }) {
                 )}
               </div>
             )}
+            </div>
 
             <Button
               className="w-full"
