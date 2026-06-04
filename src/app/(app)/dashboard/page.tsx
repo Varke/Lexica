@@ -2,6 +2,7 @@ import Link from "next/link";
 import { BookOpen, GraduationCap, Flame, CalendarClock } from "lucide-react";
 
 import { createClient } from "@/lib/supabase/server";
+import { fetchAll } from "@/lib/supabase/fetch-all";
 import type { CardRow, ReviewLogRow } from "@/lib/types";
 import { computeStats } from "@/lib/stats";
 import { Button } from "@/components/ui/button";
@@ -14,15 +15,20 @@ export default async function DashboardPage() {
   const supabase = await createClient();
   const weekAgo = new Date(Date.now() - WEEK_MS).toISOString();
 
-  const [{ data: cards }, { data: logs }] = await Promise.all([
-    supabase.from("cards").select("*"),
-    supabase.from("review_logs").select("*").gte("review", weekAgo),
+  const [cards, logs] = await Promise.all([
+    fetchAll<CardRow>((from, to) =>
+      supabase.from("cards").select("*").range(from, to),
+    ),
+    fetchAll<ReviewLogRow>((from, to) =>
+      supabase
+        .from("review_logs")
+        .select("*")
+        .gte("review", weekAgo)
+        .range(from, to),
+    ),
   ]);
 
-  const stats = computeStats(
-    (cards as CardRow[]) ?? [],
-    (logs as ReviewLogRow[]) ?? [],
-  );
+  const stats = computeStats(cards, logs);
 
   const weekReviews = stats.reviewsByDay.reduce((s, d) => s + d.count, 0);
 

@@ -43,6 +43,7 @@ export async function submitReview(cardId: string, grade: number) {
 
   revalidatePath("/dashboard");
   revalidatePath("/decks");
+  revalidatePath(`/decks/${row.deck_id}`);
 
   return { card: { ...row, ...card } as CardRow };
 }

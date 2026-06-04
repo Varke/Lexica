@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { Play } from "lucide-react";
 
 import { createClient } from "@/lib/supabase/server";
+import { fetchAll } from "@/lib/supabase/fetch-all";
 import type { CardRow, DeckRow } from "@/lib/types";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -25,13 +26,14 @@ export default async function DeckPage({
 
   if (!deck) notFound();
 
-  const { data: cards } = await supabase
-    .from("cards")
-    .select("*")
-    .eq("deck_id", id)
-    .order("created_at", { ascending: false });
-
-  const rows = (cards as CardRow[]) ?? [];
+  const rows = await fetchAll<CardRow>((from, to) =>
+    supabase
+      .from("cards")
+      .select("*")
+      .eq("deck_id", id)
+      .order("created_at", { ascending: false })
+      .range(from, to),
+  );
   const nowMs = Date.now();
   const due = rows.filter((c) => new Date(c.due).getTime() <= nowMs).length;
 
