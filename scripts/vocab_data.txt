@@ -1,0 +1,3165 @@
+# Словарь для импорта: english | русский
+# Уклон в общеупотребительную + техническую/программистскую лексику.
+
+# === Глаголы: базовые действия ===
+make | делать / создавать
+do | делать
+get | получать
+go | идти / ехать
+come | приходить
+take | брать
+give | давать
+put | класть / помещать
+keep | держать / сохранять
+let | позволять
+begin | начинать
+start | начинать / запускать
+finish | заканчивать
+end | заканчивать
+stop | останавливать
+continue | продолжать
+try | пытаться
+use | использовать
+work | работать
+play | играть
+run | бежать / запускать
+walk | ходить
+move | двигать / перемещать
+turn | поворачивать
+open | открывать
+close | закрывать
+build | строить / собирать
+break | ломать
+fix | чинить / исправлять
+change | менять
+add | добавлять
+remove | удалять
+create | создавать
+destroy | уничтожать
+choose | выбирать
+select | выбирать
+pick | выбирать / подбирать
+find | находить
+search | искать
+look | смотреть
+see | видеть
+watch | смотреть / наблюдать
+hear | слышать
+listen | слушать
+feel | чувствовать
+think | думать
+know | знать
+understand | понимать
+learn | учить / узнавать
+teach | учить / преподавать
+remember | помнить
+forget | забывать
+believe | верить
+mean | означать
+matter | иметь значение
+need | нуждаться
+want | хотеть
+wish | желать
+hope | надеяться
+like | нравиться
+love | любить
+hate | ненавидеть
+prefer | предпочитать
+decide | решать
+agree | соглашаться
+refuse | отказывать
+allow | разрешать
+deny | отрицать / отказывать
+accept | принимать
+reject | отклонять
+admit | признавать
+explain | объяснять
+describe | описывать
+tell | рассказывать
+say | говорить
+speak | говорить
+talk | разговаривать
+ask | спрашивать
+answer | отвечать
+reply | отвечать
+call | звонить / вызывать
+write | писать
+read | читать
+draw | рисовать
+paint | красить / рисовать
+show | показывать
+hide | прятать
+appear | появляться
+disappear | исчезать
+happen | случаться
+occur | происходить
+seem | казаться
+become | становиться
+grow | расти
+develop | развивать
+improve | улучшать
+increase | увеличивать
+decrease | уменьшать
+reduce | сокращать
+raise | поднимать
+lower | понижать
+rise | подниматься
+fall | падать
+drop | ронять / падать
+throw | бросать
+catch | ловить
+hold | держать
+carry | нести
+bring | приносить
+send | отправлять
+receive | получать
+deliver | доставлять
+buy | покупать
+sell | продавать
+pay | платить
+cost | стоить
+spend | тратить
+save | экономить / сохранять
+earn | зарабатывать
+win | выигрывать
+lose | проигрывать / терять
+gain | приобретать
+share | делиться
+join | присоединять
+connect | соединять
+link | связывать
+attach | прикреплять
+separate | разделять
+divide | делить
+combine | объединять
+mix | смешивать
+fill | заполнять
+empty | опустошать
+cover | покрывать
+wrap | оборачивать
+cut | резать
+tear | рвать
+press | нажимать
+push | толкать
+pull | тянуть
+lift | поднимать
+drag | тащить / перетаскивать
+drop off | высаживать / завозить
+support | поддерживать
+help | помогать
+serve | обслуживать / служить
+manage | управлять
+control | контролировать
+lead | вести / руководить
+follow | следовать
+guide | направлять
+order | заказывать / приказывать
+command | командовать
+require | требовать
+demand | требовать
+provide | предоставлять
+offer | предлагать
+suggest | предлагать
+recommend | рекомендовать
+advise | советовать
+warn | предупреждать
+remind | напоминать
+promise | обещать
+plan | планировать
+prepare | готовить
+arrange | организовывать
+organize | организовывать
+collect | собирать
+gather | собирать
+sort | сортировать
+arrange | упорядочивать
+compare | сравнивать
+match | сопоставлять
+measure | измерять
+count | считать
+calculate | вычислять
+estimate | оценивать
+check | проверять
+verify | проверять
+confirm | подтверждать
+test | тестировать
+prove | доказывать
+show off | хвастаться
+notice | замечать
+recognize | распознавать
+identify | определять
+discover | обнаруживать
+detect | обнаруживать
+report | сообщать / докладывать
+announce | объявлять
+publish | публиковать
+share out | распределять
+spread | распространять
+avoid | избегать
+prevent | предотвращать
+protect | защищать
+defend | защищать
+attack | атаковать
+fight | бороться
+escape | сбегать
+hide away | укрывать
+return | возвращать
+repeat | повторять
+replace | заменять
+update | обновлять
+upgrade | повышать / улучшать
+restore | восстанавливать
+recover | восстанавливаться
+repair | ремонтировать
+maintain | поддерживать / обслуживать
+clean | чистить
+wash | мыть
+cook | готовить
+eat | есть
+drink | пить
+sleep | спать
+wake | будить / просыпаться
+rest | отдыхать
+relax | расслабляться
+enjoy | наслаждаться
+celebrate | праздновать
+travel | путешествовать
+drive | водить / ехать
+fly | летать
+ride | ехать (верхом)
+swim | плавать
+jump | прыгать
+climb | взбираться
+fall down | падать
+stand | стоять
+sit | сидеть
+lie | лежать
+wait | ждать
+stay | оставаться
+leave | уходить / оставлять
+arrive | прибывать
+enter | входить
+exit | выходить
+visit | посещать
+meet | встречать
+introduce | представлять / знакомить
+invite | приглашать
+greet | приветствовать
+thank | благодарить
+apologize | извиняться
+complain | жаловаться
+argue | спорить
+discuss | обсуждать
+negotiate | вести переговоры
+cooperate | сотрудничать
+participate | участвовать
+contribute | вносить вклад
+involve | вовлекать
+include | включать
+exclude | исключать
+contain | содержать
+consist | состоять
+belong | принадлежать
+own | владеть
+possess | обладать
+borrow | брать в долг
+lend | давать в долг
+rent | арендовать
+hire | нанимать
+employ | нанимать
+fire | увольнять
+quit | увольняться / бросать
+apply | подавать заявку / применять
+register | регистрировать
+sign | подписывать
+fill in | заполнять
+cancel | отменять
+postpone | откладывать
+delay | задерживать
+schedule | планировать
+book | бронировать
+reserve | резервировать
+implement | реализовывать / внедрять
+deploy | развёртывать
+release | выпускать / публиковать
+launch | запускать
+maintain | сопровождать
+review | проверять / рецензировать
+approve | одобрять
+merge | сливать / объединять
+split | разделять
+extend | расширять
+expand | расширять
+shrink | сжимать
+compress | сжимать
+encrypt | шифровать
+decrypt | расшифровывать
+encode | кодировать
+decode | декодировать
+parse | разбирать / парсить
+format | форматировать
+validate | проверять / валидировать
+filter | фильтровать
+map | отображать / преобразовывать
+reduce to | сводить к
+iterate | итерировать / перебирать
+loop | повторять в цикле
+execute | выполнять
+compile | компилировать
+debug | отлаживать
+refactor | рефакторить
+optimize | оптимизировать
+configure | настраивать
+install | устанавливать
+uninstall | удалять (программу)
+import | импортировать
+export | экспортировать
+upload | загружать (на сервер)
+download | скачивать
+sync | синхронизировать
+backup | делать резервную копию
+restore from | восстанавливать из
+override | переопределять
+overwrite | перезаписывать
+inherit | наследовать
+extend from | наследовать от
+throw | выбрасывать (исключение)
+catch error | перехватывать ошибку
+handle | обрабатывать
+trigger | запускать / инициировать
+emit | испускать / посылать (событие)
+subscribe | подписываться
+unsubscribe | отписываться
+render | отрисовывать / рендерить
+fetch | получать (данные)
+request | запрашивать
+respond | отвечать
+authenticate | аутентифицировать
+authorize | авторизовать
+log in | входить (в систему)
+log out | выходить (из системы)
+grant | предоставлять (доступ)
+revoke | отзывать (доступ)
+allocate | выделять (память)
+release memory | освобождать память
+flush | сбрасывать (буфер)
+cache | кэшировать
+queue | ставить в очередь
+schedule task | планировать задачу
+poll | опрашивать
+broadcast | транслировать
+route | маршрутизировать
+forward | пересылать
+proxy | проксировать
+mock | мокать / подменять
+stub | заглушать
+assert | утверждать / проверять
+benchmark | измерять производительность
+profile | профилировать
+trace | трассировать
+monitor | наблюдать / мониторить
+scale | масштабировать
+provision | подготавливать (ресурсы)
+rollback | откатывать
+patch | патчить / латать
+bump | повышать (версию)
+lint | проверять стиль кода
+commit | коммитить / фиксировать
+clone | клонировать
+fork | форкать / ответвлять
+rebase | перебазировать
+stash | прятать (изменения)
+checkout | переключаться (на ветку)
+pull | подтягивать (изменения)
+push | отправлять (изменения)
+tag | помечать тегом
+annotate | аннотировать
+serialize | сериализовать
+deserialize | десериализовать
+normalize | нормализовать
+sanitize | очищать / обеззараживать
+escape | экранировать
+truncate | усекать / обрезать
+round | округлять
+parse out | извлекать (парсингом)
+resolve | разрешать (зависимости)
+reject promise | отклонять (промис)
+await | ожидать (асинхронно)
+yield | возвращать поэтапно
+spawn | порождать (процесс)
+terminate | завершать
+kill | убивать (процесс)
+restart | перезапускать
+reboot | перезагружать
+boot | загружать (систему)
+mount | монтировать
+unmount | размонтировать
+format disk | форматировать диск
+partition | разбивать на разделы
+index | индексировать
+query | запрашивать (из БД)
+join tables | соединять таблицы
+aggregate | агрегировать
+migrate | мигрировать / переносить
+seed | наполнять (начальными данными)
+purge | очищать полностью
+
+# === Прилагательные ===
+new | новый
+old | старый
+young | молодой
+big | большой
+large | крупный
+small | маленький
+little | маленький / немного
+huge | огромный
+tiny | крошечный
+long | длинный
+short | короткий
+tall | высокий
+wide | широкий
+narrow | узкий
+deep | глубокий
+shallow | мелкий
+thick | толстый
+thin | тонкий
+high | высокий
+low | низкий
+heavy | тяжёлый
+light | лёгкий
+fast | быстрый
+slow | медленный
+quick | быстрый
+early | ранний
+late | поздний
+hard | трудный / твёрдый
+easy | лёгкий
+difficult | сложный
+simple | простой
+complex | сложный (составной)
+complicated | запутанный
+clear | ясный / понятный
+obvious | очевидный
+strange | странный
+weird | странный
+normal | нормальный
+common | обычный / распространённый
+rare | редкий
+usual | обычный
+unusual | необычный
+special | особый
+general | общий
+specific | конкретный
+particular | определённый
+main | главный
+major | главный / крупный
+minor | незначительный
+important | важный
+serious | серьёзный
+real | настоящий
+true | истинный
+false | ложный
+right | правильный / правый
+wrong | неправильный
+correct | верный
+incorrect | неверный
+valid | действительный
+invalid | недействительный
+good | хороший
+bad | плохой
+great | отличный
+nice | приятный
+fine | прекрасный / нормальный
+poor | бедный / плохой
+rich | богатый
+expensive | дорогой
+cheap | дешёвый
+free | свободный / бесплатный
+busy | занятый
+empty | пустой
+full | полный
+complete | завершённый
+incomplete | незавершённый
+ready | готовый
+available | доступный
+unavailable | недоступный
+possible | возможный
+impossible | невозможный
+necessary | необходимый
+useful | полезный
+useless | бесполезный
+helpful | полезный / отзывчивый
+harmful | вредный
+dangerous | опасный
+safe | безопасный
+secure | защищённый
+strong | сильный
+weak | слабый
+powerful | мощный
+fragile | хрупкий
+stable | стабильный
+unstable | нестабильный
+reliable | надёжный
+flexible | гибкий
+robust | устойчивый / надёжный
+efficient | эффективный
+slow-running | медленный (в работе)
+clean | чистый
+dirty | грязный
+fresh | свежий
+modern | современный
+ancient | древний
+recent | недавний
+current | текущий
+previous | предыдущий
+next | следующий
+final | окончательный
+initial | начальный
+basic | базовый
+advanced | продвинутый
+default | по умолчанию
+custom | пользовательский / настраиваемый
+standard | стандартный
+official | официальный
+public | публичный / открытый
+private | приватный / закрытый
+internal | внутренний
+external | внешний
+local | локальный
+remote | удалённый
+global | глобальный
+shared | общий / разделяемый
+unique | уникальный
+similar | похожий
+different | разный
+equal | равный
+various | различные
+multiple | множественный
+single | единственный
+double | двойной
+empty-handed | с пустыми руками
+whole | целый
+entire | весь / целиком
+partial | частичный
+total | общий / суммарный
+exact | точный
+approximate | приблизительный
+accurate | точный
+precise | точный
+rough | грубый / приблизительный
+detailed | подробный
+brief | краткий
+huge-scale | масштабный
+tight | тесный / плотный
+loose | свободный / слабый
+smooth | гладкий / плавный
+sharp | острый
+soft | мягкий
+warm | тёплый
+cold | холодный
+hot | горячий
+cool | прохладный
+dry | сухой
+wet | мокрый
+bright | яркий
+dark | тёмный
+quiet | тихий
+loud | громкий
+calm | спокойный
+angry | злой
+happy | счастливый
+sad | грустный
+tired | усталый
+afraid | испуганный
+proud | гордый
+glad | рад
+nervous | нервный
+confident | уверенный
+curious | любопытный
+boring | скучный
+interesting | интересный
+exciting | волнующий
+funny | смешной
+serious-minded | серьёзный
+honest | честный
+kind | добрый
+polite | вежливый
+rude | грубый
+smart | умный
+clever | сообразительный
+stupid | глупый
+wise | мудрый
+brave | храбрый
+lazy | ленивый
+careful | осторожный
+careless | небрежный
+patient | терпеливый
+friendly | дружелюбный
+
+# === Наречия и связки (полезные) ===
+quickly | быстро
+slowly | медленно
+carefully | осторожно
+easily | легко
+hardly | едва
+nearly | почти
+almost | почти
+exactly | точно
+probably | вероятно
+maybe | может быть
+perhaps | возможно
+certainly | конечно
+definitely | определённо
+absolutely | абсолютно
+clearly | ясно
+obviously | очевидно
+actually | на самом деле
+basically | в основном
+generally | в целом
+usually | обычно
+normally | обычно
+rarely | редко
+often | часто
+sometimes | иногда
+always | всегда
+never | никогда
+already | уже
+yet | ещё / уже
+still | всё ещё
+soon | скоро
+recently | недавно
+lately | в последнее время
+eventually | в конце концов
+finally | наконец
+immediately | немедленно
+suddenly | внезапно
+gradually | постепенно
+together | вместе
+apart | отдельно
+instead | вместо этого
+otherwise | иначе
+however | однако
+therefore | поэтому
+besides | кроме того
+moreover | более того
+furthermore | кроме того
+nevertheless | тем не менее
+meanwhile | тем временем
+anyway | в любом случае
+indeed | действительно
+mostly | в основном
+roughly | примерно
+specifically | в частности
+particularly | особенно
+mainly | главным образом
+directly | напрямую
+indirectly | косвенно
+properly | должным образом
+correctly | правильно
+accordingly | соответственно
+
+# === Люди, родство, профессии ===
+person | человек
+people | люди
+man | мужчина
+woman | женщина
+child | ребёнок
+kid | ребёнок
+baby | младенец
+boy | мальчик
+girl | девочка
+adult | взрослый
+teenager | подросток
+family | семья
+parent | родитель
+father | отец
+mother | мать
+son | сын
+daughter | дочь
+brother | брат
+sister | сестра
+husband | муж
+wife | жена
+grandfather | дедушка
+grandmother | бабушка
+uncle | дядя
+aunt | тётя
+cousin | двоюродный брат/сестра
+nephew | племянник
+niece | племянница
+friend | друг
+neighbor | сосед
+colleague | коллега
+partner | партнёр
+stranger | незнакомец
+guest | гость
+host | хозяин / ведущий
+member | участник / член
+team | команда
+group | группа
+crowd | толпа
+society | общество
+community | сообщество
+government | правительство
+citizen | гражданин
+customer | клиент
+client | клиент
+user | пользователь
+visitor | посетитель
+audience | аудитория
+employee | сотрудник
+employer | работодатель
+manager | менеджер / руководитель
+director | директор
+boss | начальник
+leader | лидер
+owner | владелец
+founder | основатель
+worker | работник
+staff | персонал
+expert | эксперт
+specialist | специалист
+professional | профессионал
+beginner | новичок
+student | студент
+pupil | ученик
+teacher | учитель
+professor | профессор
+doctor | врач
+nurse | медсестра
+engineer | инженер
+developer | разработчик
+programmer | программист
+designer | дизайнер
+architect | архитектор
+scientist | учёный
+researcher | исследователь
+analyst | аналитик
+accountant | бухгалтер
+lawyer | юрист
+journalist | журналист
+writer | писатель
+artist | художник
+musician | музыкант
+actor | актёр
+driver | водитель
+pilot | пилот
+farmer | фермер
+chef | повар
+waiter | официант
+seller | продавец
+buyer | покупатель
+consultant | консультант
+volunteer | волонтёр
+soldier | солдат
+officer | офицер
+police | полиция
+firefighter | пожарный
+
+# === Тело и здоровье ===
+body | тело
+head | голова
+face | лицо
+eye | глаз
+ear | ухо
+nose | нос
+mouth | рот
+tooth | зуб
+tongue | язык (орган)
+lip | губа
+neck | шея
+shoulder | плечо
+arm | рука (от плеча)
+elbow | локоть
+wrist | запястье
+hand | кисть / рука
+finger | палец
+thumb | большой палец
+chest | грудь
+back | спина
+stomach | живот
+waist | талия
+hip | бедро
+leg | нога
+knee | колено
+ankle | лодыжка
+foot | ступня
+toe | палец ноги
+skin | кожа
+bone | кость
+muscle | мышца
+heart | сердце
+brain | мозг
+lung | лёгкое
+blood | кровь
+nerve | нерв
+health | здоровье
+illness | болезнь
+disease | заболевание
+pain | боль
+fever | жар / температура
+cough | кашель
+cold | простуда
+flu | грипп
+injury | травма
+wound | рана
+medicine | лекарство
+pill | таблетка
+treatment | лечение
+cure | лечение / средство
+surgery | операция
+hospital | больница
+clinic | клиника
+pharmacy | аптека
+diet | диета
+exercise | упражнение / зарядка
+sleep deprivation | недосып
+stress | стресс
+energy | энергия
+strength | сила
+breath | дыхание
+
+# === Еда и кухня ===
+food | еда
+meal | приём пищи
+breakfast | завтрак
+lunch | обед
+dinner | ужин
+snack | перекус
+water | вода
+tea | чай
+coffee | кофе
+juice | сок
+milk | молоко
+bread | хлеб
+butter | масло (сливочное)
+oil | масло (растительное)
+cheese | сыр
+egg | яйцо
+meat | мясо
+chicken | курица
+beef | говядина
+pork | свинина
+fish | рыба
+rice | рис
+pasta | паста / макароны
+potato | картофель
+tomato | помидор
+onion | лук
+garlic | чеснок
+carrot | морковь
+pepper | перец
+salt | соль
+sugar | сахар
+flour | мука
+soup | суп
+salad | салат
+sandwich | сэндвич
+fruit | фрукт
+apple | яблоко
+banana | банан
+orange | апельсин
+lemon | лимон
+grape | виноград
+berry | ягода
+vegetable | овощ
+nut | орех
+honey | мёд
+chocolate | шоколад
+cake | торт
+cookie | печенье
+ice cream | мороженое
+plate | тарелка
+bowl | миска
+cup | чашка
+glass | стакан
+fork | вилка
+knife | нож
+spoon | ложка
+bottle | бутылка
+recipe | рецепт
+taste | вкус
+flavor | вкус / аромат
+fresh produce | свежие продукты
+
+# === Дом и предметы ===
+house | дом
+home | дом (жилище)
+apartment | квартира
+room | комната
+kitchen | кухня
+bedroom | спальня
+bathroom | ванная
+living room | гостиная
+office | офис / кабинет
+garage | гараж
+garden | сад
+yard | двор
+wall | стена
+floor | пол / этаж
+ceiling | потолок
+roof | крыша
+door | дверь
+window | окно
+stairs | лестница
+furniture | мебель
+table | стол
+desk | письменный стол
+chair | стул
+sofa | диван
+bed | кровать
+shelf | полка
+drawer | ящик
+closet | шкаф / гардероб
+mirror | зеркало
+lamp | лампа
+light bulb | лампочка
+curtain | штора
+carpet | ковёр
+pillow | подушка
+blanket | одеяло
+towel | полотенце
+key | ключ
+lock | замок
+clock | часы (настенные)
+watch | часы (наручные)
+phone | телефон
+charger | зарядное устройство
+battery | батарея / аккумулятор
+cable | кабель
+plug | вилка / штекер
+socket | розетка
+switch | выключатель
+remote | пульт
+fridge | холодильник
+stove | плита
+oven | духовка
+microwave | микроволновка
+sink | раковина
+trash | мусор
+bin | мусорное ведро
+broom | метла
+bucket | ведро
+soap | мыло
+brush | щётка
+tool | инструмент
+hammer | молоток
+screwdriver | отвёртка
+nail | гвоздь
+screw | винт / шуруп
+wire | провод
+rope | верёвка
+box | коробка
+bag | сумка / пакет
+basket | корзина
+container | контейнер
+jar | банка
+
+# === Природа, животные, погода, география ===
+nature | природа
+world | мир
+earth | земля / Земля
+sky | небо
+sun | солнце
+moon | луна
+star | звезда
+planet | планета
+space | космос / пространство
+air | воздух
+wind | ветер
+cloud | облако
+rain | дождь
+snow | снег
+ice | лёд
+storm | буря / шторм
+thunder | гром
+lightning | молния
+fog | туман
+weather | погода
+climate | климат
+temperature | температура
+season | сезон / время года
+spring | весна
+summer | лето
+autumn | осень
+winter | зима
+fire | огонь
+flame | пламя
+smoke | дым
+land | земля / суша
+ground | земля / почва
+soil | почва
+sand | песок
+rock | камень / скала
+stone | камень
+mountain | гора
+hill | холм
+valley | долина
+forest | лес
+tree | дерево
+wood | дерево / древесина
+leaf | лист
+flower | цветок
+grass | трава
+plant | растение
+root | корень
+seed | семя
+field | поле
+river | река
+lake | озеро
+sea | море
+ocean | океан
+beach | пляж
+island | остров
+desert | пустыня
+wave | волна
+animal | животное
+dog | собака
+cat | кошка
+horse | лошадь
+cow | корова
+pig | свинья
+sheep | овца
+bird | птица
+chicken bird | курица (птица)
+duck | утка
+eagle | орёл
+snake | змея
+frog | лягушка
+insect | насекомое
+bee | пчела
+ant | муравей
+spider | паук
+butterfly | бабочка
+wolf | волк
+bear | медведь
+lion | лев
+tiger | тигр
+elephant | слон
+monkey | обезьяна
+mouse | мышь
+rabbit | кролик
+country | страна
+nation | нация / государство
+city | город
+town | городок
+village | деревня
+capital | столица
+region | регион
+area | район / область
+border | граница
+map | карта
+direction | направление
+north | север
+south | юг
+east | восток
+west | запад
+
+# === Время, числа, количество ===
+time | время
+moment | момент
+second | секунда
+minute | минута
+hour | час
+day | день
+week | неделя
+month | месяц
+year | год
+decade | десятилетие
+century | век
+today | сегодня
+tomorrow | завтра
+yesterday | вчера
+morning | утро
+noon | полдень
+afternoon | день (после полудня)
+evening | вечер
+night | ночь
+midnight | полночь
+weekend | выходные
+holiday | праздник / отпуск
+date | дата
+deadline | срок / дедлайн
+schedule | расписание
+period | период
+duration | продолжительность
+delay | задержка
+beginning | начало
+middle | середина
+end of time | конец
+past | прошлое
+present | настоящее
+future | будущее
+number | число
+amount | количество
+quantity | количество
+total | итог / всего
+sum | сумма
+average | среднее
+half | половина
+quarter | четверть
+third | треть
+pair | пара
+dozen | дюжина
+couple | пара / несколько
+few | несколько
+several | несколько
+many | много
+much | много
+plenty | множество
+enough | достаточно
+rest of | остальное
+percent | процент
+rate | ставка / темп
+ratio | соотношение
+amount of | объём
+
+# === Одежда ===
+clothes | одежда
+shirt | рубашка
+t-shirt | футболка
+trousers | брюки
+jeans | джинсы
+shorts | шорты
+dress | платье
+skirt | юбка
+jacket | куртка / пиджак
+coat | пальто
+sweater | свитер
+suit | костюм
+shoe | туфля / ботинок
+boot | сапог
+sock | носок
+hat | шляпа / шапка
+cap | кепка
+glove | перчатка
+scarf | шарф
+belt | ремень
+tie | галстук
+pocket | карман
+button | пуговица / кнопка
+zipper | молния (застёжка)
+size | размер
+fashion | мода
+style | стиль
+
+# === Бизнес, работа, финансы, офис ===
+business | бизнес
+company | компания
+firm | фирма
+corporation | корпорация
+startup | стартап
+industry | отрасль
+market | рынок
+economy | экономика
+trade | торговля
+deal | сделка
+contract | контракт
+agreement | соглашение
+project | проект
+task | задача
+goal | цель
+objective | цель / задача
+target | цель / показатель
+strategy | стратегия
+plan of action | план действий
+budget | бюджет
+cost | стоимость / затраты
+price | цена
+profit | прибыль
+loss | убыток
+revenue | выручка
+income | доход
+expense | расход
+investment | инвестиция
+fund | фонд / средства
+capital | капитал
+loan | заём / кредит
+debt | долг
+tax | налог
+fee | сбор / комиссия
+salary | зарплата
+wage | заработная плата
+bonus | премия / бонус
+payment | платёж
+invoice | счёт-фактура
+receipt | чек / квитанция
+account | счёт / аккаунт
+bank | банк
+cash | наличные
+currency | валюта
+exchange | обмен
+value | ценность / значение
+worth | стоимость
+asset | актив
+resource | ресурс
+supply | поставка / снабжение
+demand | спрос
+product | продукт
+service | услуга
+quality | качество
+brand | бренд
+sales | продажи
+marketing | маркетинг
+advertisement | реклама
+campaign | кампания
+customer support | поддержка клиентов
+meeting | встреча / совещание
+presentation | презентация
+report | отчёт
+document | документ
+file | файл
+folder | папка
+form | форма / бланк
+letter | письмо
+email | электронная почта
+message | сообщение
+note | заметка
+list | список
+chart | диаграмма
+graph | график
+spreadsheet | таблица
+template | шаблон
+signature | подпись
+stamp | печать / штамп
+approval | одобрение
+permission | разрешение
+deadline pressure | давление сроков
+priority | приоритет
+progress | прогресс
+result | результат
+outcome | итог / результат
+success | успех
+failure | неудача
+mistake | ошибка
+problem | проблема
+issue | проблема / вопрос
+solution | решение
+decision | решение
+opportunity | возможность
+risk | риск
+benefit | выгода / польза
+advantage | преимущество
+disadvantage | недостаток
+responsibility | ответственность
+role | роль
+position | должность / позиция
+career | карьера
+promotion | повышение
+interview | собеседование
+resume | резюме
+skill | навык
+experience | опыт
+knowledge | знание
+training | обучение
+workshop | мастер-класс
+conference | конференция
+
+# === Образование, наука, математика ===
+education | образование
+school | школа
+university | университет
+college | колледж
+class | класс / занятие
+lesson | урок
+course | курс
+subject | предмет
+lecture | лекция
+seminar | семинар
+homework | домашнее задание
+assignment | задание
+exam | экзамен
+test paper | контрольная
+grade | оценка
+degree | степень / диплом
+diploma | диплом
+certificate | сертификат
+library | библиотека
+book | книга
+page | страница
+chapter | глава
+paragraph | абзац
+sentence | предложение
+word | слово
+letter symbol | буква
+language | язык
+grammar | грамматика
+vocabulary | словарный запас
+meaning | значение / смысл
+translation | перевод
+example | пример
+question | вопрос
+answer key | ответ
+science | наука
+research | исследование
+experiment | эксперимент
+theory | теория
+fact | факт
+evidence | доказательство
+proof | доказательство
+method | метод
+process | процесс
+system | система
+structure | структура
+function | функция
+formula | формула
+rule | правило
+law | закон
+principle | принцип
+concept | концепция / понятие
+idea | идея
+model | модель
+pattern | шаблон / паттерн
+math | математика
+number theory | теория чисел
+equation | уравнение
+variable | переменная
+constant | константа
+value of x | значение
+sum total | сумма
+difference | разность
+product math | произведение
+quotient | частное
+fraction | дробь
+decimal | десятичная дробь
+integer | целое число
+percentage | процент
+addition | сложение
+subtraction | вычитание
+multiplication | умножение
+division | деление
+square | квадрат
+root math | корень
+power | степень
+angle | угол
+line | линия
+point | точка
+shape | фигура / форма
+circle | круг
+triangle | треугольник
+rectangle | прямоугольник
+length | длина
+width | ширина
+height | высота
+depth | глубина
+weight | вес
+mass | масса
+speed | скорость
+distance | расстояние
+volume | объём
+density | плотность
+force | сила
+gravity | гравитация
+pressure | давление
+heat | тепло
+sound | звук
+chemistry | химия
+physics | физика
+biology | биология
+element | элемент
+atom | атом
+molecule | молекула
+cell | клетка
+gene | ген
+species | вид
+
+# === Эмоции, характер, абстрактные понятия ===
+feeling | чувство
+emotion | эмоция
+mood | настроение
+happiness | счастье
+joy | радость
+sadness | грусть
+fear | страх
+anger | гнев
+surprise | удивление
+disgust | отвращение
+love feeling | любовь
+hope feeling | надежда
+trust | доверие
+doubt | сомнение
+worry | беспокойство
+anxiety | тревога
+calmness | спокойствие
+confidence | уверенность
+pride | гордость
+shame | стыд
+guilt | вина
+jealousy | ревность / зависть
+gratitude | благодарность
+respect | уважение
+sympathy | сочувствие
+patience | терпение
+courage | смелость
+honesty | честность
+kindness | доброта
+loyalty | верность
+curiosity | любопытство
+motivation | мотивация
+ambition | амбиция
+desire | желание
+need feeling | потребность
+character | характер
+personality | личность
+habit | привычка
+behavior | поведение
+attitude | отношение / настрой
+opinion | мнение
+belief | убеждение
+thought | мысль
+mind | разум / ум
+memory | память
+attention | внимание
+focus | сосредоточенность
+imagination | воображение
+creativity | креативность
+intelligence | интеллект
+wisdom | мудрость
+sense | чувство / смысл
+reason | причина / разум
+purpose | цель / назначение
+cause | причина
+effect | следствие / эффект
+relationship | отношения
+connection | связь
+difference between | разница
+similarity | сходство
+balance | баланс / равновесие
+order | порядок
+chaos | хаос
+freedom | свобода
+power influence | власть
+truth | правда / истина
+lie | ложь
+secret | секрет
+mystery | тайна
+chance | шанс / случайность
+luck | удача
+fate | судьба
+choice | выбор
+option | вариант
+limit | предел / ограничение
+condition | условие
+situation | ситуация
+circumstance | обстоятельство
+context | контекст
+state | состояние
+quality trait | качество
+feature | особенность / функция
+detail | деталь
+aspect | аспект
+factor | фактор
+impact | воздействие
+influence | влияние
+change process | изменение
+growth | рост
+progress idea | прогресс
+development | развитие
+improvement | улучшение
+solution idea | решение
+
+# === Компьютеры и общее IT ===
+computer | компьютер
+laptop | ноутбук
+desktop | настольный компьютер
+server | сервер
+device | устройство
+hardware | аппаратное обеспечение
+software | программное обеспечение
+program | программа
+application | приложение
+app | приложение
+operating system | операционная система
+screen | экран
+display | дисплей
+monitor device | монитор
+keyboard | клавиатура
+mouse device | мышь
+processor | процессор
+core | ядро
+memory ram | оперативная память
+storage | хранилище
+disk | диск
+drive | накопитель
+file system | файловая система
+directory | каталог
+path | путь
+filename | имя файла
+extension | расширение (файла)
+shortcut | ярлык / сочетание клавиш
+icon | значок
+window ui | окно
+menu | меню
+button ui | кнопка
+toolbar | панель инструментов
+cursor | курсор
+clipboard | буфер обмена
+setting | настройка
+preference | предпочтение / настройка
+feature flag | флаг функции
+update software | обновление
+version | версия
+release software | релиз
+patch software | патч
+bug | баг / ошибка
+glitch | сбой
+crash | сбой / падение
+freeze | зависание
+performance | производительность
+speed up | ускорять
+slow down | замедлять
+
+# === Программирование: базовые понятия ===
+code | код
+source code | исходный код
+programming | программирование
+language prog | язык программирования
+syntax | синтаксис
+semantics | семантика
+keyword | ключевое слово
+statement | оператор / инструкция
+expression | выражение
+operator | оператор
+operand | операнд
+variable prog | переменная
+constant prog | константа
+value prog | значение
+type | тип
+data type | тип данных
+integer type | целое число
+float | число с плавающей точкой
+string | строка
+boolean | логический тип
+character | символ
+array | массив
+list data | список
+tuple | кортеж
+set data | множество
+dictionary | словарь
+map data | отображение / словарь
+object | объект
+instance | экземпляр
+class prog | класс
+property | свойство
+attribute | атрибут
+method | метод
+function prog | функция
+argument | аргумент
+parameter | параметр
+return value | возвращаемое значение
+default value | значение по умолчанию
+scope | область видимости
+namespace | пространство имён
+module | модуль
+package | пакет
+library prog | библиотека
+framework | фреймворк
+dependency | зависимость
+import statement | импорт
+export statement | экспорт
+declaration | объявление
+definition | определение
+assignment | присваивание
+condition prog | условие
+branch prog | ветвление
+loop prog | цикл
+iteration | итерация
+recursion | рекурсия
+reference | ссылка
+pointer | указатель
+null | null / пусто
+undefined | неопределённое
+nil | nil / ничего
+flag | флаг
+counter | счётчик
+index prog | индекс
+range | диапазон
+sequence | последовательность
+collection | коллекция
+element prog | элемент
+key value | ключ
+pair key-value | пара ключ-значение
+node | узел
+edge | ребро (графа)
+tree | дерево (структура)
+graph data | граф
+stack | стек
+queue data | очередь
+heap | куча
+hash | хеш
+hash table | хеш-таблица
+buffer | буфер
+cache data | кэш
+token | токен
+literal | литерал
+comment code | комментарий
+indentation | отступ
+whitespace | пробельный символ
+escape character | управляющий символ
+encoding | кодировка
+bit | бит
+byte | байт
+binary | двоичный
+hexadecimal | шестнадцатеричный
+
+# === ООП и парадигмы ===
+inheritance | наследование
+encapsulation | инкапсуляция
+polymorphism | полиморфизм
+abstraction | абстракция
+interface | интерфейс
+abstract class | абстрактный класс
+constructor | конструктор
+destructor | деструктор
+override method | переопределение
+overload | перегрузка
+getter | геттер
+setter | сеттер
+field | поле
+static method | статический метод
+instance method | метод экземпляра
+encapsulate | инкапсулировать
+composition | композиция
+generic | обобщённый тип
+template prog | шаблон
+closure | замыкание
+callback | колбэк / обратный вызов
+higher-order function | функция высшего порядка
+pure function | чистая функция
+side effect | побочный эффект
+immutability | неизменяемость
+mutable | изменяемый
+state management | управление состоянием
+event | событие
+event loop | цикл событий
+listener | слушатель
+handler | обработчик
+promise | промис
+async | асинхронный
+await keyword | ожидание
+coroutine | сопрограмма
+thread | поток
+process prog | процесс
+concurrency | конкурентность
+parallelism | параллелизм
+deadlock | взаимоблокировка
+race condition | состояние гонки
+mutex | мьютекс
+lock | блокировка
+semaphore | семафор
+atomic | атомарный
+
+# === Веб-разработка ===
+web | веб
+website | веб-сайт
+webpage | веб-страница
+browser | браузер
+frontend | фронтенд
+backend | бэкенд
+fullstack | фулстек
+client | клиент
+server side | серверная часть
+markup | разметка
+element html | элемент
+tag | тег
+attribute html | атрибут
+stylesheet | таблица стилей
+selector | селектор
+layout | макет / разметка
+responsive | адаптивный
+component | компонент
+state ui | состояние
+props | свойства (компонента)
+hook | хук
+render | рендеринг
+virtual dom | виртуальный DOM
+template engine | шаблонизатор
+route | маршрут
+routing | маршрутизация
+endpoint | конечная точка / эндпоинт
+request | запрос
+response | ответ
+header | заголовок
+payload | полезная нагрузка
+body request | тело запроса
+status code | код состояния
+cookie | куки
+session | сессия
+form data | данные формы
+validation | валидация
+input | ввод / поле ввода
+output | вывод
+submit | отправка
+upload web | загрузка (на сервер)
+download web | скачивание
+url | URL / адрес
+domain | домен
+subdomain | поддомен
+host | хост
+port | порт
+protocol | протокол
+api | API
+endpoint api | эндпоинт API
+rest | REST
+graphql | GraphQL
+websocket | веб-сокет
+ajax | AJAX
+json | JSON
+xml | XML
+yaml | YAML
+query string | строка запроса
+query parameter | параметр запроса
+middleware | промежуточное ПО
+controller | контроллер
+view | представление
+service prog | сервис
+proxy server | прокси-сервер
+load balancer | балансировщик нагрузки
+cdn | сеть доставки контента
+
+# === Базы данных ===
+database | база данных
+table db | таблица
+row | строка (записи)
+column | столбец
+record | запись
+field db | поле
+primary key | первичный ключ
+foreign key | внешний ключ
+index db | индекс
+schema | схема
+query db | запрос
+relation | отношение / связь
+join | соединение
+transaction | транзакция
+commit db | фиксация
+rollback db | откат
+migration | миграция
+seed db | начальные данные
+backup db | резервная копия
+replication | репликация
+shard | шард
+constraint | ограничение
+trigger db | триггер
+view db | представление
+stored procedure | хранимая процедура
+normalization | нормализация
+relational | реляционный
+document database | документная БД
+collection db | коллекция
+aggregation | агрегация
+pipeline | конвейер
+orm | ORM
+connection pool | пул соединений
+deadlock db | взаимоблокировка
+
+# === Сети ===
+network | сеть
+internet | интернет
+connection net | соединение
+packet | пакет
+bandwidth | пропускная способность
+latency | задержка
+throughput | пропускная способность
+firewall | межсетевой экран
+router | маршрутизатор
+gateway | шлюз
+dns | DNS
+ip address | IP-адрес
+tcp | TCP
+udp | UDP
+http | HTTP
+https | HTTPS
+ssl | SSL
+certificate net | сертификат
+handshake | рукопожатие
+timeout | тайм-аут
+retry | повтор
+ping | пинг
+socket net | сокет
+stream | поток данных
+protocol stack | стек протоколов
+
+# === DevOps, облако, инфраструктура ===
+deployment | развёртывание
+build | сборка
+pipeline ci | конвейер CI/CD
+container | контейнер
+image | образ
+registry | реестр
+orchestration | оркестрация
+cluster | кластер
+node infra | узел
+pod | под
+scaling | масштабирование
+autoscaling | автомасштабирование
+load | нагрузка
+infrastructure | инфраструктура
+provisioning | подготовка ресурсов
+environment | окружение / среда
+staging | стейджинг
+production | продакшен / боевая среда
+rollout | выкатка
+rollback deploy | откат
+monitoring | мониторинг
+logging | логирование
+log | лог / журнал
+metric | метрика
+alert | оповещение
+dashboard | дашборд / панель
+uptime | время работы
+downtime | простой
+availability | доступность
+reliability | надёжность
+resilience | устойчивость
+redundancy | резервирование
+failover | переключение при отказе
+health check | проверка работоспособности
+cloud | облако
+virtual machine | виртуальная машина
+serverless | бессерверный
+storage bucket | хранилище / бакет
+queue infra | очередь
+message broker | брокер сообщений
+secret | секрет / ключ
+config | конфигурация
+variable env | переменная окружения
+
+# === Безопасность ===
+security | безопасность
+authentication | аутентификация
+authorization | авторизация
+credential | учётные данные
+password | пароль
+username | имя пользователя
+login | вход / логин
+logout | выход
+permission access | право доступа
+access | доступ
+role security | роль
+token security | токен
+session token | токен сессии
+encryption | шифрование
+decryption | расшифровка
+hash function | хеш-функция
+salt | соль (хеширования)
+signature security | подпись
+key crypto | ключ
+public key | открытый ключ
+private key | закрытый ключ
+certificate security | сертификат
+vulnerability | уязвимость
+exploit | эксплойт
+attack security | атака
+threat | угроза
+breach | утечка / взлом
+malware | вредоносное ПО
+virus | вирус
+phishing | фишинг
+injection | инъекция
+firewall security | брандмауэр
+audit | аудит
+compliance | соответствие требованиям
+
+# === Тестирование и качество кода ===
+test prog | тест
+testing | тестирование
+unit test | модульный тест
+integration test | интеграционный тест
+end-to-end test | сквозной тест
+test case | тестовый случай
+test suite | набор тестов
+assertion | утверждение
+mock | заглушка / мок
+stub | заглушка
+fixture | фикстура
+coverage | покрытие
+regression | регрессия
+edge case | граничный случай
+corner case | особый случай
+happy path | основной сценарий
+failing test | падающий тест
+flaky test | нестабильный тест
+smoke test | дымовой тест
+load test | нагрузочное тестирование
+stress test | стресс-тест
+benchmark | бенчмарк
+profiling | профилирование
+linting | проверка стиля
+formatting | форматирование
+code review | ревью кода
+pull request | пулреквест
+merge request | запрос на слияние
+feedback | обратная связь
+refactoring | рефакторинг
+technical debt | технический долг
+code smell | запах кода
+boilerplate | шаблонный код
+documentation | документация
+readme | README / описание
+changelog | список изменений
+specification | спецификация
+requirement | требование
+acceptance criteria | критерии приёмки
+
+# === Алгоритмы и структуры данных ===
+algorithm | алгоритм
+data structure | структура данных
+complexity | сложность
+time complexity | временная сложность
+space complexity | пространственная сложность
+big o notation | О-нотация
+linear | линейный
+logarithmic | логарифмический
+constant time | константное время
+quadratic | квадратичный
+search algorithm | алгоритм поиска
+binary search | двоичный поиск
+linear search | линейный поиск
+sorting | сортировка
+sort algorithm | алгоритм сортировки
+quicksort | быстрая сортировка
+merge sort | сортировка слиянием
+bubble sort | пузырьковая сортировка
+traversal | обход
+depth-first | поиск в глубину
+breadth-first | поиск в ширину
+linked list | связный список
+doubly linked list | двусвязный список
+binary tree | двоичное дерево
+balanced tree | сбалансированное дерево
+hash map | хеш-таблица
+priority queue | очередь с приоритетом
+matrix | матрица
+vector | вектор
+adjacency | смежность
+recursion algo | рекурсия
+backtracking | поиск с возвратом
+dynamic programming | динамическое программирование
+greedy | жадный алгоритм
+divide and conquer | разделяй и властвуй
+memoization | мемоизация
+pointer arithmetic | арифметика указателей
+swap | обмен
+partition algo | разбиение
+pivot | опорный элемент
+
+# === Паттерны проектирования и архитектура ===
+design pattern | паттерн проектирования
+architecture | архитектура
+singleton | одиночка
+factory | фабрика
+observer | наблюдатель
+strategy pattern | стратегия
+adapter | адаптер
+decorator | декоратор
+facade | фасад
+proxy pattern | заместитель
+builder | строитель
+prototype | прототип
+dependency injection | внедрение зависимостей
+inversion of control | инверсия управления
+separation of concerns | разделение ответственности
+single responsibility | единственная ответственность
+coupling | связанность
+cohesion | связность
+modularity | модульность
+abstraction layer | уровень абстракции
+microservice | микросервис
+monolith | монолит
+event-driven | событийно-ориентированный
+message queue | очередь сообщений
+publish-subscribe | издатель-подписчик
+client-server | клиент-сервер
+peer-to-peer | одноранговый
+stateless | без состояния
+stateful | с состоянием
+idempotent | идемпотентный
+scalability | масштабируемость
+maintainability | сопровождаемость
+extensibility | расширяемость
+backward compatibility | обратная совместимость
+breaking change | ломающее изменение
+
+# === Git и контроль версий ===
+version control | контроль версий
+repository | репозиторий
+repo | репозиторий
+commit version | коммит
+branch | ветка
+master branch | главная ветка
+merge git | слияние
+conflict | конфликт
+rebase | перебазирование
+checkout git | переключение
+clone repo | клонирование
+fork repo | форк
+pull git | подтягивание изменений
+push git | отправка изменений
+fetch git | получение изменений
+stage | индексировать
+staging area | область индексирования
+working directory | рабочая директория
+diff | различие
+patch git | патч
+tag git | тег
+history | история
+revert | откат коммита
+cherry-pick | выбор коммита
+blame | авторство строк
+remote git | удалённый репозиторий
+origin | источник / origin
+upstream | вышестоящий репозиторий
+
+# === ИИ, машинное обучение, данные ===
+artificial intelligence | искусственный интеллект
+machine learning | машинное обучение
+deep learning | глубокое обучение
+neural network | нейронная сеть
+model ml | модель
+training data | обучающие данные
+dataset | набор данных
+feature ml | признак
+label | метка
+prediction | предсказание
+classification | классификация
+regression ml | регрессия
+clustering | кластеризация
+overfitting | переобучение
+underfitting | недообучение
+accuracy | точность
+precision ml | точность (precision)
+recall | полнота
+loss function | функция потерь
+gradient | градиент
+weight ml | вес
+bias | смещение
+layer | слой
+activation | активация
+backpropagation | обратное распространение
+inference | вывод / инференс
+embedding | вложение / эмбеддинг
+token ml | токен
+prompt | промпт / запрос
+fine-tuning | дообучение
+parameter ml | параметр
+hyperparameter | гиперпараметр
+epoch | эпоха
+batch ml | пакет / батч
+data science | наука о данных
+big data | большие данные
+data pipeline | конвейер данных
+preprocessing | предобработка
+transformation | преобразование
+
+# === Инструменты и среда разработки ===
+editor | редактор
+ide | среда разработки
+terminal | терминал
+shell | оболочка
+command | команда
+command line | командная строка
+prompt cli | приглашение командной строки
+script | скрипт
+compiler | компилятор
+interpreter | интерпретатор
+debugger | отладчик
+breakpoint | точка останова
+stack trace | трассировка стека
+log output | вывод журнала
+console | консоль
+output stream | поток вывода
+error message | сообщение об ошибке
+warning | предупреждение
+exception | исключение
+runtime | время выполнения
+compile time | время компиляции
+build tool | инструмент сборки
+package manager | менеджер пакетов
+dependency manager | менеджер зависимостей
+virtual environment | виртуальное окружение
+sandbox | песочница
+emulator | эмулятор
+simulator | симулятор
+profiler | профилировщик
+formatter | форматировщик
+linter | линтер
+plugin | плагин
+extension tool | расширение
+snippet | сниппет
+keybinding | сочетание клавиш
+autocomplete | автодополнение
+syntax highlighting | подсветка синтаксиса
+
+# === UI/UX и мобильная разработка ===
+interface ui | интерфейс
+user experience | пользовательский опыт
+usability | удобство использования
+wireframe | каркас / вайрфрейм
+mockup | макет
+prototype ui | прототип
+layout ui | компоновка
+grid | сетка
+spacing | отступы
+padding | внутренний отступ
+margin | внешний отступ
+alignment | выравнивание
+font | шрифт
+typography | типографика
+color scheme | цветовая схема
+theme ui | тема
+dark mode | тёмная тема
+animation | анимация
+transition ui | переход
+gesture | жест
+tap | касание
+swipe | смахивание
+scroll | прокрутка
+drag and drop | перетаскивание
+modal | модальное окно
+dialog | диалоговое окно
+tooltip | всплывающая подсказка
+notification | уведомление
+badge | значок
+spinner | индикатор загрузки
+progress bar | индикатор выполнения
+placeholder | заполнитель
+checkbox | флажок
+radio button | переключатель
+dropdown | выпадающий список
+slider | ползунок
+toggle | переключатель
+breadcrumb | хлебные крошки
+sidebar | боковая панель
+navbar | панель навигации
+footer ui | подвал
+mobile | мобильный
+native app | нативное приложение
+cross-platform | кроссплатформенный
+responsive design | адаптивный дизайн
+viewport | область просмотра
+pixel | пиксель
+resolution | разрешение
+orientation | ориентация
+
+# === Фразовые глаголы (очень частотные) ===
+set up | настраивать / устанавливать
+shut down | выключать
+turn on | включать
+turn off | выключать
+log in to | входить в
+sign up | регистрироваться
+sign in | входить
+sign out | выходить
+back up | резервировать
+carry out | выполнять
+figure out | разбираться / выяснять
+find out | узнавать
+work out | разбираться / решать
+sort out | улаживать
+point out | указывать
+bring up | поднимать (тему)
+come up with | придумывать
+end up | в итоге оказаться
+give up | сдаваться
+go on | продолжать
+go through | проходить через / просматривать
+look up | искать (в справочнике)
+look into | изучать
+look for | искать
+look after | заботиться
+take care of | заботиться о
+take over | брать на себя
+take off | взлетать / снимать
+take out | вынимать
+put off | откладывать
+put up with | мириться с
+break down | ломаться / разбивать
+break up | расставаться / разбивать
+call off | отменять
+check out | проверять / выезжать
+check in | регистрироваться
+fill out | заполнять
+hand in | сдавать
+hand out | раздавать
+hold on | подождать / держаться
+keep up | поспевать
+keep on | продолжать
+move on | двигаться дальше
+pass on | передавать
+pick up | подбирать / забирать
+run out of | заканчиваться
+run into | случайно встретить
+show up | появляться
+throw away | выбрасывать
+turn out | оказываться
+turn down | отклонять / убавлять
+turn up | прибавлять / появляться
+get up | вставать
+get along | ладить
+get back | возвращаться
+get rid of | избавляться от
+get over | преодолевать
+go ahead | приступать
+go back | возвращаться
+come across | натыкаться на
+come back | возвращаться
+come in | входить
+deal with | иметь дело с
+focus on | сосредоточиться на
+rely on | полагаться на
+depend on | зависеть от
+result in | приводить к
+lead to | приводить к
+cut down on | сокращать
+catch up | догонять
+warm up | разогревать
+cool down | остывать
+speed up dev | ускорять
+slow down dev | замедлять
+roll out | выкатывать
+scale up | масштабировать вверх
+scale down | масштабировать вниз
+spin up | поднимать (сервер)
+tear down | разбирать / сносить
+opt in | подключаться
+opt out | отказываться
+phase out | постепенно убирать
+plug in | подключать
+roll back | откатывать
+
+# === Полезные выражения и связки ===
+for example | например
+for instance | к примеру
+in other words | иными словами
+that is | то есть
+in fact | на самом деле
+in general | в общем
+in particular | в частности
+on the other hand | с другой стороны
+on the contrary | напротив
+as a result | в результате
+as a matter of fact | собственно говоря
+at least | по крайней мере
+at most | самое большее
+at the same time | в то же время
+by the way | кстати
+in addition | вдобавок
+in contrast | в отличие
+in short | короче говоря
+in summary | подведём итог
+to sum up | подводя итог
+on purpose | намеренно
+by accident | случайно
+by chance | случайно
+of course | конечно
+no matter | неважно
+as well | также
+as well as | а также
+such as | такой как
+according to | согласно
+due to | из-за
+instead of | вместо
+in order to | чтобы
+so that | чтобы / так чтобы
+as soon as | как только
+as long as | пока / при условии
+even though | хотя
+even if | даже если
+as if | как будто
+rather than | а не / вместо
+in case | на случай
+in spite of | несмотря на
+regardless of | независимо от
+on average | в среднем
+up to date | актуальный
+out of date | устаревший
+out of order | неисправен
+out of stock | нет в наличии
+in stock | в наличии
+on demand | по запросу
+on time | вовремя
+in time | вовремя / успеть
+ahead of time | заранее
+right now | прямо сейчас
+so far | пока что
+from scratch | с нуля
+step by step | шаг за шагом
+more or less | более-менее
+a lot of | много
+a couple of | пара / несколько
+plenty of | множество
+the same as | такой же как
+as usual | как обычно
+make sense | иметь смысл
+make sure | убедиться
+take place | происходить
+take time | занимать время
+keep in mind | иметь в виду
+pay attention | обращать внимание
+on second thought | если подумать
+in the meantime | тем временем
+sooner or later | рано или поздно
+once in a while | время от времени
+in the long run | в долгосрочной перспективе
+at first glance | на первый взгляд
+
+# === Технические выражения и фразы ===
+out of the box | из коробки
+under the hood | под капотом
+edge case handling | обработка крайних случаев
+race to the bottom | гонка ко дну
+single source of truth | единый источник истины
+separation of duties | разделение обязанностей
+fail fast | быстро падать (при ошибке)
+fail gracefully | корректно обрабатывать сбой
+backward-compatible | обратно совместимый
+forward-compatible | совместимый с будущим
+plug and play | подключи и работай
+drag-and-drop interface | интерфейс перетаскивания
+copy and paste | копировать и вставить
+trial and error | метод проб и ошибок
+proof of concept | проверка концепции
+minimum viable product | минимально жизнеспособный продукт
+work in progress | в процессе работы
+ready to ship | готово к выпуску
+known issue | известная проблема
+root cause | первопричина
+side note | примечание
+rule of thumb | эмпирическое правило
+best practice | лучшая практика
+good practice | хорошая практика
+common pitfall | частая ошибка
+quick fix | быстрое решение
+workaround | обходной путь
+hotfix | срочное исправление
+performance bottleneck | узкое место производительности
+memory leak | утечка памяти
+stack overflow | переполнение стека
+buffer overflow | переполнение буфера
+null pointer | нулевой указатель
+infinite loop | бесконечный цикл
+off by one | ошибка на единицу
+default behavior | поведение по умолчанию
+expected behavior | ожидаемое поведение
+unexpected behavior | неожиданное поведение
+side-effect free | без побочных эффектов
+read-only | только для чтения
+write access | доступ на запись
+case sensitive | чувствительный к регистру
+case insensitive | нечувствительный к регистру
+
+# === Город, транспорт, путешествия ===
+street | улица
+road | дорога
+avenue | проспект
+square place | площадь
+bridge | мост
+building | здание
+tower | башня
+station | станция / вокзал
+airport | аэропорт
+port | порт
+parking | парковка
+traffic | движение / пробки
+crossing | перекрёсток / переход
+sidewalk | тротуар
+sign road | знак
+map travel | карта
+route travel | маршрут
+ticket | билет
+passport | паспорт
+luggage | багаж
+suitcase | чемодан
+backpack | рюкзак
+journey | путешествие
+trip | поездка
+tour | тур / экскурсия
+flight | рейс / полёт
+gate | выход (на посадку)
+seat | место / сиденье
+vehicle | транспортное средство
+car | автомобиль
+bus | автобус
+train | поезд
+plane | самолёт
+ship | корабль
+boat | лодка
+bicycle | велосипед
+motorcycle | мотоцикл
+taxi | такси
+subway | метро
+truck | грузовик
+engine | двигатель
+wheel | колесо
+fuel | топливо
+speed limit | ограничение скорости
+hotel | отель
+room hotel | номер
+reservation | бронирование
+destination | пункт назначение
+arrival | прибытие
+departure | отправление
+delay travel | задержка
+
+# === Покупки, повседневное ===
+shop | магазин
+store | магазин
+mall | торговый центр
+market place | рынок
+shopping | покупки
+cart | корзина (покупок)
+checkout shop | оформление заказа
+order shop | заказ
+delivery | доставка
+return goods | возврат
+refund | возмещение
+discount | скидка
+sale | распродажа
+offer shop | предложение
+coupon | купон
+warranty | гарантия
+brand new | новенький
+secondhand | бывший в употреблении
+shelf shop | полка
+aisle | проход (между полками)
+counter | прилавок / стойка
+cashier | кассир
+change money | сдача
+wallet | кошелёк
+purse | кошелёк / сумочка
+gift | подарок
+package shop | посылка / упаковка
+
+# === Интернет, медиа, общение ===
+account online | аккаунт
+profile | профиль
+post | пост / публикация
+comment | комментарий
+like social | лайк
+follower | подписчик
+feed | лента
+share social | поделиться
+tag social | отметка / тег
+hashtag | хештег
+link url | ссылка
+search engine | поисковая система
+keyword search | ключевое слово
+content | контент / содержимое
+media | медиа
+stream media | трансляция
+video | видео
+audio | аудио
+podcast | подкаст
+photo | фотография
+image media | изображение
+file upload | загружаемый файл
+attachment | вложение
+chat | чат
+group chat | групповой чат
+direct message | личное сообщение
+inbox | входящие
+spam | спам
+subscription | подписка
+newsletter | рассылка
+advertisement online | реклама
+banner | баннер
+pop-up | всплывающее окно
+bookmark | закладка
+tab browser | вкладка
+refresh | обновление страницы
+loading | загрузка
+offline | офлайн
+online | онлайн
+status online | статус
+username online | имя пользователя
+avatar | аватар
+emoji | эмодзи
+trending | в тренде
+viral | вирусный
+
+# === Программирование: данные и форматы ===
+data | данные
+metadata | метаданные
+field value | значение поля
+key-value pair | пара ключ-значение
+nested | вложенный
+flat structure | плоская структура
+array index | индекс массива
+list comprehension | списковое включение
+generator | генератор
+iterator | итератор
+enumerate | перечисление
+slice | срез
+concatenation | конкатенация
+interpolation | интерполяция
+substring | подстрока
+prefix | префикс
+suffix | суффикс
+delimiter | разделитель
+separator | разделитель
+regular expression | регулярное выражение
+regex | регулярка
+pattern matching | сопоставление с образцом
+wildcard | подстановочный знак
+placeholder var | заполнитель
+format string | строка формата
+raw string | сырая строка
+byte array | массив байтов
+stream data | поток данных
+chunk | блок / порция
+batch process | пакетная обработка
+parse error | ошибка разбора
+schema validation | проверка по схеме
+serialization | сериализация
+deserialization | десериализация
+marshalling | маршалинг
+checksum | контрольная сумма
+hash value | хеш-значение
+unique identifier | уникальный идентификатор
+uuid | UUID
+timestamp | временная метка
+epoch time | время эпохи
+locale | локаль
+timezone | часовой пояс
+charset | набор символов
+mime type | MIME-тип
+
+# === Программирование: процесс и поведение ===
+input data | входные данные
+output data | выходные данные
+return statement | оператор возврата
+early return | ранний возврат
+fall through | проваливание (switch)
+short circuit | короткое замыкание (логики)
+lazy evaluation | ленивое вычисление
+eager evaluation | энергичное вычисление
+deep copy | глубокая копия
+shallow copy | поверхностная копия
+pass by value | передача по значению
+pass by reference | передача по ссылке
+garbage collection | сборка мусора
+memory management | управление памятью
+allocation | выделение (памяти)
+deallocation | освобождение (памяти)
+stack frame | кадр стека
+call stack | стек вызовов
+recursion depth | глубина рекурсии
+base case | базовый случай
+invariant | инвариант
+precondition | предусловие
+postcondition | постусловие
+assertion error | ошибка утверждения
+graceful shutdown | корректное завершение
+idempotency | идемпотентность
+throttling | ограничение частоты
+rate limit | лимит запросов
+debounce | устранение дребезга
+backoff | задержка перед повтором
+circuit breaker | предохранитель
+retry logic | логика повторов
+fallback | запасной вариант
+feature toggle | переключатель функции
+hot reload | горячая перезагрузка
+live reload | живая перезагрузка
+watch mode | режим наблюдения
+dry run | пробный запуск
+verbose | подробный (вывод)
+silent mode | тихий режим
+
+# === Наука и измерения (расширение) ===
+unit | единица (измерения)
+measurement | измерение
+scale science | шкала
+degree | градус
+celsius | Цельсий
+meter | метр
+kilometer | километр
+centimeter | сантиметр
+gram | грамм
+kilogram | килограмм
+liter | литр
+joule | джоуль
+watt | ватт
+volt | вольт
+ampere | ампер
+frequency | частота
+wavelength | длина волны
+energy science | энергия
+matter | материя / вещество
+liquid | жидкость
+solid | твёрдое тело
+gas | газ
+reaction | реакция
+acid | кислота
+metal | металл
+oxygen | кислород
+hydrogen | водород
+carbon | углерод
+light science | свет
+radiation | излучение
+magnet | магнит
+electricity | электричество
+circuit | электрическая цепь
+current | ток
+charge | заряд
+voltage | напряжение
+sensor | датчик
+signal | сигнал
+frequency band | диапазон частот
+
+# === Спорт, хобби, искусство ===
+sport | спорт
+game | игра
+match game | матч
+team sport | командный спорт
+player | игрок
+coach | тренер
+referee | судья
+score | счёт
+goal sport | гол / ворота
+ball | мяч
+field sport | поле
+gym | спортзал
+training session | тренировка
+fitness | фитнес
+running | бег
+swimming | плавание
+cycling | велоспорт
+football | футбол
+basketball | баскетбол
+tennis | теннис
+chess | шахматы
+hobby | хобби
+music | музыка
+song | песня
+band | группа (музыкальная)
+instrument | инструмент
+guitar | гитара
+piano | пианино
+drum | барабан
+melody | мелодия
+rhythm | ритм
+art | искусство
+painting | картина / живопись
+drawing | рисунок
+sculpture | скульптура
+museum | музей
+gallery | галерея
+theater | театр
+movie | фильм
+film | фильм
+actor role | роль актёра
+director film | режиссёр
+scene | сцена
+story | история / рассказ
+novel | роман
+poem | стихотворение
+author | автор
+character story | персонаж
+plot | сюжет
+dance | танец
+photography | фотография
+camera | камера
+
+# === Дополнительные частотные слова ===
+thing | вещь
+stuff | вещи / штуки
+item | предмет / элемент
+part | часть
+piece | кусок / часть
+section | раздел
+side | сторона
+top | верх
+bottom | низ
+edge | край
+center | центр
+corner | угол
+front | перёд
+end side | конец
+beginning side | начало
+place | место
+spot | место / точка
+position place | положение
+level | уровень
+stage | этап / стадия
+step | шаг
+turn step | очередь / поворот
+way | путь / способ
+manner | манера / способ
+kind | вид / тип
+sort kind | вид / сорт
+form shape | форма
+example case | пример
+case | случай
+event happening | событие
+action | действие
+activity | деятельность
+behavior thing | поведение
+movement | движение
+event general | мероприятие
+moment time | момент
+fact thing | факт
+point idea | суть / момент
+matter subject | вопрос / дело
+topic | тема
+theme | тема
+field area | область
+subject area | предмет
+scope area | рамки / охват
+view opinion | взгляд / мнение
+sense meaning | смысл
+word meaning | значение слова
+name | имя / название
+title | заголовок / звание
+label tag | ярлык
+sign symbol | знак
+symbol | символ
+mark | отметка
+note thing | заметка
+record thing | запись
+copy | копия
+original | оригинал
+version thing | вариант / версия
+
+# === Дополнительные глаголы ===
+consider | рассматривать
+assume | предполагать
+expect | ожидать
+suppose | полагать
+imagine | представлять
+guess | угадывать / предполагать
+realize | осознавать
+wonder | интересоваться / гадать
+mention | упоминать
+note down | записывать
+define | определять
+refer | ссылаться
+relate | связывать / относиться
+apply to | относиться к
+affect | влиять
+depend | зависеть
+cause to | вызывать
+allow for | учитывать
+indicate | указывать
+imply | подразумевать
+reveal | раскрывать
+expose | раскрывать / подвергать
+demonstrate | демонстрировать
+illustrate | иллюстрировать
+clarify | прояснять
+emphasize | подчёркивать
+highlight | выделять
+focus | сосредотачивать
+ignore | игнорировать
+skip | пропускать
+omit | опускать / пропускать
+delay action | откладывать
+hesitate | колебаться
+struggle | бороться / с трудом справляться
+manage to | суметь
+succeed | преуспевать
+fail | терпеть неудачу
+afford | позволять себе
+deserve | заслуживать
+owe | быть должным
+predict | предсказывать
+prevent from | мешать
+encourage | поощрять
+motivate | мотивировать
+inspire | вдохновлять
+convince | убеждать
+persuade | уговаривать
+influence verb | влиять
+impress | впечатлять
+satisfy | удовлетворять
+disappoint | разочаровывать
+surprise verb | удивлять
+confuse | сбивать с толку
+bother | беспокоить
+annoy | раздражать
+frustrate | расстраивать
+threaten | угрожать
+blame | обвинять
+accuse | обвинять
+forgive | прощать
+trust verb | доверять
+suspect | подозревать
+ensure | обеспечивать
+guarantee | гарантировать
+remain | оставаться
+exist | существовать
+occur to | приходить в голову
+arise | возникать
+involve in | вовлекать в
+consist of | состоять из
+depend upon | полагаться на
+contribute to | способствовать
+react | реагировать
+respond to | отвечать на
+adapt | адаптировать
+adjust | регулировать / настраивать
+modify | изменять
+transform | преобразовывать
+convert | преобразовывать
+translate | переводить
+interpret | интерпретировать
+represent | представлять
+reflect | отражать
+contain within | содержать в себе
+generate | генерировать
+produce | производить
+construct | конструировать
+assemble | собирать
+disassemble | разбирать
+combine into | объединять в
+integrate | интегрировать
+coordinate | координировать
+synchronize | синхронизировать
+align | выравнивать
+distribute | распределять
+assign | назначать
+delegate | делегировать
+prioritize | расставлять приоритеты
+evaluate | оценивать
+assess | оценивать
+analyze | анализировать
+investigate | расследовать
+examine | исследовать
+inspect | осматривать
+observe | наблюдать
+record action | записывать / фиксировать
+track | отслеживать
+measure out | отмерять
+
+# === Дополнительные технические термины ===
+codebase | кодовая база
+snippet code | фрагмент кода
+function call | вызов функции
+return type | тип возврата
+signature | сигнатура
+overload signature | перегрузка сигнатуры
+parameter list | список параметров
+default argument | аргумент по умолчанию
+keyword argument | именованный аргумент
+positional argument | позиционный аргумент
+variadic | переменное число аргументов
+anonymous function | анонимная функция
+lambda | лямбда
+arrow function | стрелочная функция
+first-class function | функция первого класса
+type annotation | аннотация типа
+type inference | вывод типа
+type checking | проверка типов
+static typing | статическая типизация
+dynamic typing | динамическая типизация
+strong typing | строгая типизация
+weak typing | слабая типизация
+type cast | приведение типа
+type coercion | неявное приведение
+enum | перечисление
+struct | структура
+union type | объединение типов
+generic type | обобщённый тип
+type parameter | параметр типа
+nullable | допускающий null
+optional | необязательный
+default export | экспорт по умолчанию
+named export | именованный экспорт
+re-export | реэкспорт
+circular dependency | циклическая зависимость
+side module | вспомогательный модуль
+entry point | точка входа
+build artifact | артефакт сборки
+bundle | бандл / пакет
+minification | минификация
+tree shaking | устранение мёртвого кода
+source map | карта исходников
+transpile | транспиляция
+polyfill | полифил
+shim | прослойка
+hot module replacement | горячая замена модулей
+watcher | наблюдатель за файлами
+file watcher | отслеживание файлов
+glob pattern | шаблон путей
+working tree | рабочее дерево
+detached head | отсоединённый HEAD
+merge conflict | конфликт слияния
+fast-forward | перемотка вперёд
+squash | сжатие коммитов
+amend | правка коммита
+hunk | фрагмент изменений
+patch file | файл патча
+
+# === Сервер, API, HTTP (расширение) ===
+endpoint http | конечная точка
+http method | HTTP-метод
+get request | GET-запрос
+post request | POST-запрос
+put request | PUT-запрос
+delete request | DELETE-запрос
+patch request | PATCH-запрос
+request header | заголовок запроса
+response header | заголовок ответа
+content type | тип содержимого
+status ok | статус 200
+not found | не найдено (404)
+bad request | неверный запрос (400)
+unauthorized | не авторизован (401)
+forbidden | запрещено (403)
+server error | ошибка сервера (500)
+redirect | перенаправление
+caching header | заголовок кэширования
+rate limiting | ограничение запросов
+pagination | пагинация
+sorting param | параметр сортировки
+filtering | фильтрация
+query builder | построитель запросов
+request body | тело запроса
+response body | тело ответа
+api key | ключ API
+bearer token | токен Bearer
+refresh token | токен обновления
+access token | токен доступа
+oauth | OAuth
+webhook | веб-хук
+callback url | URL обратного вызова
+idempotency key | ключ идемпотентности
+content negotiation | согласование содержимого
+cors | CORS
+preflight | предварительный запрос
+
+# === Дополнительные прилагательные (технические качества) ===
+scalable | масштабируемый
+maintainable | сопровождаемый
+testable | тестируемый
+readable | читаемый
+reusable | переиспользуемый
+configurable | настраиваемый
+extensible | расширяемый
+portable | переносимый
+compatible | совместимый
+deprecated | устаревший
+experimental | экспериментальный
+stable release | стабильный
+unstable build | нестабильный
+verbose mode | подробный
+concise | лаконичный
+redundant | избыточный
+optional param | необязательный
+required field | обязательный
+mandatory | обязательный
+nullable field | обнуляемый
+immutable | неизменяемый
+mutable state | изменяемый
+synchronous | синхронный
+asynchronous | асинхронный
+blocking | блокирующий
+non-blocking | неблокирующий
+thread-safe | потокобезопасный
+deterministic | детерминированный
+non-deterministic | недетерминированный
+backward compatible | обратно совместимый
+forward compatible | прямо совместимый
+human-readable | удобочитаемый
+machine-readable | машиночитаемый
+
+# === Числа и порядок ===
+zero | ноль
+one | один
+two | два
+three | три
+four | четыре
+five | пять
+ten | десять
+hundred | сто
+thousand | тысяча
+million | миллион
+billion | миллиард
+first | первый
+second order | второй
+third order | третий
+last | последний
+next order | следующий
+previous order | предыдущий
+once | однажды / один раз
+twice | дважды
+double amount | вдвое
+triple | втрое
+single one | единичный
+both | оба
+each | каждый
+every | каждый
+none | ни один
+all | все
+some | некоторые
+any | любой
+most | большинство
+least | наименьший
+more | больше
+less | меньше
+equal amount | равный
+
+# === Финал: разное полезное ===
+goal setting | постановка целей
+to-do list | список дел
+checklist | контрольный список
+reminder | напоминание
+appointment | приём / встреча
+agenda | повестка дня
+minutes meeting | протокол встречи
+follow-up | последующие действия
+update status | обновление статуса
+status report | отчёт о статусе
+milestone | веха
+roadmap | дорожная карта
+backlog | бэклог
+sprint | спринт
+standup | планёрка
+retrospective | ретроспектива
+stakeholder | заинтересованная сторона
+scope creep | расползание границ
+trade-off | компромисс
+constraint biz | ограничение
+assumption | допущение
+estimate biz | оценка
+forecast | прогноз
+metric biz | показатель
+benchmark biz | эталон
+baseline | базовый уровень
+threshold | порог
+trend | тенденция
+insight | вывод / инсайт
+takeaway | главный вывод
+overview | обзор
+summary | сводка
+breakdown | разбивка
+highlight biz | ключевой момент
+bottleneck | узкое место
+workflow | рабочий процесс
+process flow | ход процесса
+handoff | передача дел
+ownership | ответственность / владение
+accountability | подотчётность
+alignment biz | согласованность
+buy-in | поддержка / согласие
+onboarding | адаптация / онбординг
+offboarding | отключение сотрудника
+headcount | штат
+turnover | текучка / оборот
+retention | удержание
+engagement | вовлечённость
+churn | отток
+conversion | конверсия
+funnel | воронка
+lead | лид / зацепка
+pipeline sales | воронка продаж
+quota | квота
+margin | маржа
+overhead | накладные расходы
+cash flow | денежный поток
+break-even | точка безубыточности
+valuation | оценка стоимости
+equity | доля / капитал
+stake | доля
+share stock | акция
+shareholder | акционер
+dividend | дивиденд
+merger | слияние
+acquisition | поглощение
+partnership | партнёрство
+vendor | поставщик
+supplier | поставщик
+contractor | подрядчик
+freelancer | фрилансер
+remote work | удалённая работа
+hybrid work | гибридная работа
+overtime | сверхурочные
+shift | смена
+break time | перерыв
+leave | отпуск
+vacation | отпуск
+sick leave | больничный
+benefits | льготы / соцпакет
+raise pay | повышение зарплаты
+performance review | оценка работы
+feedback loop | цикл обратной связи
+one-on-one | встреча один на один
+mentor | наставник
+mentee | подопечный
+peer | коллега / равный
+cross-functional | межфункциональный
+deliverable | результат работы
+artifact | артефакт
+deliver value | приносить ценность
+prioritization | расстановка приоритетов
+estimation | оценка трудозатрат
+velocity | скорость команды
+capacity | пропускная способность
+allocation biz | распределение
+utilization | загрузка / использование
+efficiency biz | эффективность
+productivity | продуктивность
+output biz | результат / выпуск
+quality assurance | контроль качества
+sign-off | окончательное согласование
+approval flow | процесс согласования
+escalation | эскалация
+incident | инцидент
+outage | сбой / простой
+postmortem | разбор инцидента
+runbook | инструкция действий
+on-call | дежурство
+sla | соглашение об уровне сервиса
+kpi | ключевой показатель
+okr | цели и ключевые результаты
+north star | главная метрика
+data-driven | основанный на данных
+hypothesis | гипотеза
+experiment biz | эксперимент
+a/b test | A/B-тест
+rollout plan | план выката
+go-to-market | вывод на рынок
+positioning | позиционирование
+value proposition | ценностное предложение
+target audience | целевая аудитория
+persona | портрет пользователя
+use case | сценарий использования
+user story | пользовательская история
+edge | преимущество
+competitive | конкурентный
+differentiation | отличие / дифференциация
+adoption | внедрение / принятие
+retention rate | уровень удержания
+growth rate | темп роста
+scalable model | масштабируемая модель
+sustainable | устойчивый
+viable | жизнеспособный
+feasible | осуществимый
+robust solution | надёжное решение
+seamless | бесшовный
+intuitive | интуитивный
+streamlined | упрощённый
+cutting-edge | передовой
+state-of-the-art | новейший
+end-to-end | сквозной
+turnkey | под ключ
+ad hoc | специальный / разовый
+granular | детальный / гранулярный
+high-level | высокоуровневый
+low-level | низкоуровневый
+under the radar | незаметно
+in the loop | в курсе дел
+on the same page | на одной волне
+moving forward | в дальнейшем
+going forward | в будущем
+at scale | в масштабе
+by design | намеренно / по задумке
+out of scope | вне рамок
+in scope | в рамках
+nice to have | желательно
+must have | обязательно
+low-hanging fruit | лёгкая добыча
+quick win | быстрая победа
+deep dive | глубокое погружение
+big picture | общая картина
