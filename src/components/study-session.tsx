@@ -14,6 +14,7 @@ import {
   humanizeInterval,
 } from "@/lib/fsrs";
 import { submitReview } from "@/app/actions/review";
+import { getWordContext, type WordContext } from "@/app/actions/context";
 import { speak, ttsSupported } from "@/lib/tts";
 import { isAnswerCorrect } from "@/lib/answer-check";
 import { Button } from "@/components/ui/button";
@@ -43,6 +44,12 @@ function effectiveDir(direction: Direction, id: string): "fwd" | "rev" {
   return h % 2 === 0 ? "fwd" : "rev";
 }
 
+/** Приводит транскрипцию к виду /…/. */
+function fmtPhonetic(p: string): string {
+  const t = p.trim().replace(/^\/+|\/+$/g, "");
+  return t ? `/${t}/` : "";
+}
+
 export function StudySession({
   deckId,
   deckName,
@@ -63,6 +70,9 @@ export function StudySession({
   // --- Режим ввода ---
   const [typed, setTyped] = useState("");
   const [checked, setChecked] = useState(false);
+
+  // --- Контекст слова (транскрипция + пример), подтянутый в этой сессии ---
+  const [contextMap, setContextMap] = useState<Record<string, WordContext>>({});
 
   // --- Настройки сессии (запоминаются в localStorage) ---
   const [settings, setSettings] = useState<Settings>(DEFAULT_SETTINGS);
@@ -99,6 +109,10 @@ export function StudySession({
   // front в БД — англ. слово, back — перевод. Английский озвучиваем всегда.
   const promptText = current ? (dir === "fwd" ? current.front : current.back) : "";
   const answerText = current ? (dir === "fwd" ? current.back : current.front) : "";
+  // Контекст: из этой сессии (contextMap) либо уже сохранённый в карточке.
+  const ctx = current ? contextMap[current.id] : undefined;
+  const phonetic = fmtPhonetic(ctx?.phonetic ?? current?.phonetic ?? "");
+  const example = ctx?.example ?? current?.example ?? "";
 
   const now = useMemo(() => new Date(), [current?.id, revealed]);
   const intervals = useMemo(
@@ -162,6 +176,23 @@ export function StudySession({
       speak(current.front);
     }
   }, [revealed, current, settings.tts, settings.direction]);
+
+  // Лениво подтягиваем контекст слова. `phonetic === null` означает «ещё не
+  // запрашивали»; undefined (нет колонки в БД) — пропускаем, чтобы не падать.
+  useEffect(() => {
+    if (!current || current.phonetic !== null) return;
+    if (current.id in contextMap) return;
+    let cancelled = false;
+    getWordContext(current.id)
+      .then((res) => {
+        if (cancelled || "error" in res) return;
+        setContextMap((m) => ({ ...m, [current.id]: res }));
+      })
+      .catch(() => {});
+    return () => {
+      cancelled = true;
+    };
+  }, [current, contextMap]);
 
   // Клавиатура: Space/Enter — показать ответ (кроме режима ввода); 1–4 — оценка.
   useEffect(() => {
@@ -297,9 +328,16 @@ export function StudySession({
           {/* Лицевая сторона — вопрос */}
           <Card className="absolute inset-0 [backface-visibility:hidden]">
             <CardContent className="flex h-full flex-col items-center justify-center gap-4 p-8 text-center">
-              <p className="font-mono text-3xl font-semibold tracking-tight">
-                {promptText}
-              </p>
+              <div className="space-y-1">
+                <p className="font-mono text-3xl font-semibold tracking-tight">
+                  {promptText}
+                </p>
+                {dir === "fwd" && phonetic && (
+                  <p className="font-mono text-sm text-muted-foreground">
+                    {phonetic}
+                  </p>
+                )}
+              </div>
               {!settings.typing && (
                 <span className="inline-flex items-center gap-1.5 text-xs text-muted-foreground">
                   Нажмите на карточку или
@@ -311,12 +349,22 @@ export function StudySession({
 
           {/* Обратная сторона — ответ */}
           <Card className="absolute inset-0 [backface-visibility:hidden] [transform:rotateY(180deg)]">
-            <CardContent className="flex h-full flex-col items-center justify-center gap-3 p-8 text-center">
+            <CardContent className="flex h-full flex-col items-center justify-center gap-2 overflow-hidden p-8 text-center">
               <p className="font-mono text-lg text-muted-foreground">
                 {promptText}
               </p>
               <div className="h-px w-16 bg-border" />
               <p className="text-2xl font-medium">{answerText}</p>
+              {dir === "rev" && phonetic && (
+                <p className="font-mono text-sm text-muted-foreground">
+                  {phonetic}
+                </p>
+              )}
+              {example && (
+                <p className="mt-1 max-w-prose text-sm italic text-muted-foreground">
+                  «{example}»
+                </p>
+              )}
             </CardContent>
           </Card>
         </div>

@@ -24,6 +24,10 @@ export type CardRow = {
   state: number;
   last_review: string | null;
   created_at: string;
+  // Контекст слова (лениво подтягивается из словаря).
+  // null — не запрашивали; '' — запрашивали, данных нет.
+  phonetic: string | null;
+  example: string | null;
 };
 
 /** Строка таблицы review_logs. */

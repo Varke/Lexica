@@ -41,6 +41,11 @@ create table if not exists public.cards (
   created_at     timestamptz not null default now()
 );
 
+-- Контекст слова (транскрипция + пример), подтягивается лениво из словаря.
+-- null = ещё не запрашивали; '' = запрашивали, данных нет.
+alter table public.cards add column if not exists phonetic text;
+alter table public.cards add column if not exists example  text;
+
 -- ----------------------------------------------------------------------------
 -- Журнал повторений (для статистики и графиков)
 -- ----------------------------------------------------------------------------
