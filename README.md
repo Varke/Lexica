@@ -14,6 +14,9 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?logo=tailwindcss&logoColor=white)
 ![FSRS](https://img.shields.io/badge/FSRS-ts--fsrs-8B5CF6)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
+### 🌐 [Открыть демо →](https://anki-opal.vercel.app/)
 
 </div>
 
@@ -144,8 +147,14 @@ supabase/schema.sql     # схема БД + RLS
 статистика. Расчёт идёт и на клиенте (мгновенный переход), и на сервере
 (источник истины), по одному и тому же алгоритму.
 
+## Лицензия
+
+Проект **открытый и бесплатный** — отдаю его всем под лицензией
+[MIT](./LICENSE). Берите, форкайте и допиливайте под свои нужды: меняйте язык
+карточек, дизайн, алгоритм, прикручивайте свои фичи. PR и идеи приветствуются.
+
 ---
 
 <div align="center">
-<sub>Учебный pet-проект. PR и идеи приветствуются.</sub>
+<sub>✨ Вайб-проект, собранный в своё удовольствие. Открыт для всех — пользуйтесь.</sub>
 </div>
