@@ -25,6 +25,10 @@ export async function GET(request: NextRequest) {
     const supabase = await createClient();
     const { error } = await supabase.auth.verifyOtp({ type, token_hash });
     if (!error) {
+      // Восстановление пароля: сессия установлена — ведём на смену пароля.
+      if (type === "recovery") {
+        return NextResponse.redirect(new URL("/reset-password", request.url));
+      }
       // Только относительные пути — защита от open redirect.
       const dest = next.startsWith("/") ? next : "/dashboard";
       return NextResponse.redirect(new URL(dest, request.url));

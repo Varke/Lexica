@@ -74,6 +74,27 @@ export async function addSingleCard(
   return addCards(deckId, [{ front: f, back: b }]);
 }
 
+export async function updateCard(
+  id: string,
+  deckId: string,
+  front: string,
+  back: string,
+) {
+  const f = front.trim();
+  const b = back.trim();
+  if (!f || !b) return { error: "Заполните слово и перевод" };
+
+  const { supabase } = await requireUser();
+  const { error } = await supabase
+    .from("cards")
+    .update({ front: f, back: b })
+    .eq("id", id);
+  if (error) return { error: error.message };
+
+  revalidatePath(`/decks/${deckId}`);
+  return { ok: true };
+}
+
 export async function deleteCard(id: string, deckId: string) {
   const { supabase } = await requireUser();
   const { error } = await supabase.from("cards").delete().eq("id", id);
