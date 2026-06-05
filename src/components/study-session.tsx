@@ -1,15 +1,17 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useState, useTransition } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { toast } from "sonner";
+import type { Grade } from "ts-fsrs";
 import { PartyPopper, Volume2, Keyboard } from "lucide-react";
 
 import type { CardRow } from "@/lib/types";
 import {
   GRADES,
   GRADE_META,
+  review,
   previewIntervals,
   humanizeInterval,
 } from "@/lib/fsrs";
@@ -60,7 +62,6 @@ export function StudySession({
   queue: CardRow[];
 }) {
   const router = useRouter();
-  const [pending, startTransition] = useTransition();
 
   const [queue, setQueue] = useState<CardRow[]>(initialQueue);
   const [revealed, setRevealed] = useState(false);
@@ -122,30 +123,33 @@ export function StudySession({
 
   const rate = useCallback(
     (grade: number) => {
-      if (!current || pending) return;
-      startTransition(async () => {
-        const res = await submitReview(current.id, grade);
-        if (res.error) {
-          toast.error(res.error);
-          return;
-        }
+      if (!current) return;
 
-        const updated = res.card!;
-        setQueue((q) => {
-          const rest = q.slice(1);
-          // Карточки в стадии заучивания (Learning/Relearning) возвращаются в конец очереди.
-          if (updated.state === 1 || updated.state === 3) {
-            return [...rest, updated];
-          }
-          return rest;
-        });
-        setDone((d) => d + 1);
-        setRevealed(false);
-        setTyped("");
-        setChecked(false);
+      // Оптимистично: считаем следующее состояние тем же планировщиком, что и
+      // сервер (ts-fsrs работает в браузере), и сразу переходим дальше.
+      const { card: patch } = review(current, grade as Grade);
+      const updated = { ...current, ...patch } as CardRow;
+      setQueue((q) => {
+        const rest = q.slice(1);
+        // Карточки в стадии заучивания (Learning/Relearning) — в конец очереди.
+        if (updated.state === 1 || updated.state === 3) {
+          return [...rest, updated];
+        }
+        return rest;
       });
+      setDone((d) => d + 1);
+      setRevealed(false);
+      setTyped("");
+      setChecked(false);
+
+      // Сохранение уходит в фон — не блокирует показ следующей карточки.
+      submitReview(current.id, grade)
+        .then((res) => {
+          if (res.error) toast.error(res.error);
+        })
+        .catch(() => toast.error("Не удалось сохранить оценку"));
     },
-    [current, pending],
+    [current],
   );
 
   const submitTyping = useCallback(() => {
@@ -411,7 +415,6 @@ export function StudySession({
               <Button
                 key={grade}
                 onClick={() => rate(grade)}
-                disabled={pending}
                 className={cn("flex h-auto flex-col gap-1 py-3 text-white", meta.className)}
               >
                 <span className="text-sm font-semibold">{meta.label}</span>
