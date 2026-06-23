@@ -2,407 +2,407 @@
 # Уклон в общеупотребительную + техническую/программистскую лексику.
 
 # === Глаголы: базовые действия ===
-make | делать / создавать
-do | делать
-get | получать
-go | идти / ехать
-come | приходить
-take | брать
-give | давать
-put | класть / помещать
-keep | держать / сохранять
-let | позволять
-begin | начинать
-start | начинать / запускать
-finish | заканчивать
-end | заканчивать
-stop | останавливать
-continue | продолжать
-try | пытаться
-use | использовать
-work | работать
-play | играть
-run | бежать / запускать
-walk | ходить
-move | двигать / перемещать
-turn | поворачивать
-open | открывать
-close | закрывать
-build | строить / собирать
-break | ломать
-fix | чинить / исправлять
-change | менять
-add | добавлять
-remove | удалять
-create | создавать
-destroy | уничтожать
-choose | выбирать
-select | выбирать
-pick | выбирать / подбирать
-find | находить
-search | искать
-look | смотреть
-see | видеть
-watch | смотреть / наблюдать
-hear | слышать
-listen | слушать
-feel | чувствовать
-think | думать
-know | знать
-understand | понимать
-learn | учить / узнавать
-teach | учить / преподавать
-remember | помнить
-forget | забывать
-believe | верить
-mean | означать
-matter | иметь значение
-need | нуждаться
-want | хотеть
-wish | желать
-hope | надеяться
-like | нравиться
-love | любить
-hate | ненавидеть
-prefer | предпочитать
-decide | решать
-agree | соглашаться
-refuse | отказывать
-allow | разрешать
-deny | отрицать / отказывать
-accept | принимать
-reject | отклонять
-admit | признавать
-explain | объяснять
-describe | описывать
-tell | рассказывать
-say | говорить
-speak | говорить
-talk | разговаривать
-ask | спрашивать
-answer | отвечать
-reply | отвечать
-call | звонить / вызывать
-write | писать
-read | читать
-draw | рисовать
-paint | красить / рисовать
-show | показывать
-hide | прятать
-appear | появляться
-disappear | исчезать
-happen | случаться
-occur | происходить
-seem | казаться
-become | становиться
-grow | расти
-develop | развивать
-improve | улучшать
-increase | увеличивать
-decrease | уменьшать
-reduce | сокращать
-raise | поднимать
-lower | понижать
-rise | подниматься
-fall | падать
-drop | ронять / падать
-throw | бросать
-catch | ловить
-hold | держать
-carry | нести
-bring | приносить
-send | отправлять
-receive | получать
-deliver | доставлять
-buy | покупать
-sell | продавать
-pay | платить
-cost | стоить
-spend | тратить
-save | экономить / сохранять
-earn | зарабатывать
-win | выигрывать
-lose | проигрывать / терять
-gain | приобретать
-share | делиться
-join | присоединять
-connect | соединять
-link | связывать
-attach | прикреплять
-separate | разделять
-divide | делить
-combine | объединять
-mix | смешивать
-fill | заполнять
-empty | опустошать
-cover | покрывать
-wrap | оборачивать
-cut | резать
-tear | рвать
-press | нажимать
-push | толкать
-pull | тянуть
-lift | поднимать
-drag | тащить / перетаскивать
-drop off | высаживать / завозить
-support | поддерживать
-help | помогать
-serve | обслуживать / служить
-manage | управлять
-control | контролировать
-lead | вести / руководить
-follow | следовать
-guide | направлять
-order | заказывать / приказывать
-command | командовать
-require | требовать
-demand | требовать
-provide | предоставлять
-offer | предлагать
-suggest | предлагать
-recommend | рекомендовать
-advise | советовать
-warn | предупреждать
-remind | напоминать
-promise | обещать
-plan | планировать
-prepare | готовить
-arrange | организовывать
-organize | организовывать
-collect | собирать
-gather | собирать
-sort | сортировать
-arrange | упорядочивать
-compare | сравнивать
-match | сопоставлять
-measure | измерять
-count | считать
-calculate | вычислять
-estimate | оценивать
-check | проверять
-verify | проверять
-confirm | подтверждать
-test | тестировать
-prove | доказывать
-show off | хвастаться
-notice | замечать
-recognize | распознавать
-identify | определять
-discover | обнаруживать
-detect | обнаруживать
-report | сообщать / докладывать
-announce | объявлять
-publish | публиковать
-share out | распределять
-spread | распространять
-avoid | избегать
-prevent | предотвращать
-protect | защищать
-defend | защищать
-attack | атаковать
-fight | бороться
-escape | сбегать
-hide away | укрывать
-return | возвращать
-repeat | повторять
-replace | заменять
-update | обновлять
-upgrade | повышать / улучшать
-restore | восстанавливать
-recover | восстанавливаться
-repair | ремонтировать
-maintain | поддерживать / обслуживать
-clean | чистить
-wash | мыть
-cook | готовить
-eat | есть
-drink | пить
-sleep | спать
-wake | будить / просыпаться
-rest | отдыхать
-relax | расслабляться
-enjoy | наслаждаться
-celebrate | праздновать
-travel | путешествовать
-drive | водить / ехать
-fly | летать
-ride | ехать (верхом)
-swim | плавать
-jump | прыгать
-climb | взбираться
-fall down | падать
-stand | стоять
-sit | сидеть
-lie | лежать
-wait | ждать
-stay | оставаться
-leave | уходить / оставлять
-arrive | прибывать
-enter | входить
-exit | выходить
-visit | посещать
-meet | встречать
-introduce | представлять / знакомить
-invite | приглашать
-greet | приветствовать
-thank | благодарить
-apologize | извиняться
-complain | жаловаться
-argue | спорить
-discuss | обсуждать
-negotiate | вести переговоры
-cooperate | сотрудничать
-participate | участвовать
-contribute | вносить вклад
-involve | вовлекать
-include | включать
-exclude | исключать
-contain | содержать
-consist | состоять
-belong | принадлежать
-own | владеть
-possess | обладать
-borrow | брать в долг
-lend | давать в долг
-rent | арендовать
-hire | нанимать
-employ | нанимать
-fire | увольнять
-quit | увольняться / бросать
-apply | подавать заявку / применять
-register | регистрировать
-sign | подписывать
-fill in | заполнять
-cancel | отменять
-postpone | откладывать
-delay | задерживать
-schedule | планировать
-book | бронировать
-reserve | резервировать
-implement | реализовывать / внедрять
-deploy | развёртывать
-release | выпускать / публиковать
-launch | запускать
-maintain | сопровождать
-review | проверять / рецензировать
-approve | одобрять
-merge | сливать / объединять
-split | разделять
-extend | расширять
-expand | расширять
-shrink | сжимать
-compress | сжимать
-encrypt | шифровать
-decrypt | расшифровывать
-encode | кодировать
-decode | декодировать
-parse | разбирать / парсить
-format | форматировать
-validate | проверять / валидировать
-filter | фильтровать
-map | отображать / преобразовывать
-reduce to | сводить к
-iterate | итерировать / перебирать
-loop | повторять в цикле
-execute | выполнять
-compile | компилировать
-debug | отлаживать
-refactor | рефакторить
-optimize | оптимизировать
-configure | настраивать
-install | устанавливать
-uninstall | удалять (программу)
-import | импортировать
-export | экспортировать
-upload | загружать (на сервер)
-download | скачивать
-sync | синхронизировать
-backup | делать резервную копию
-restore from | восстанавливать из
-override | переопределять
-overwrite | перезаписывать
-inherit | наследовать
-extend from | наследовать от
-throw | выбрасывать (исключение)
-catch error | перехватывать ошибку
-handle | обрабатывать
-trigger | запускать / инициировать
-emit | испускать / посылать (событие)
-subscribe | подписываться
-unsubscribe | отписываться
-render | отрисовывать / рендерить
-fetch | получать (данные)
-request | запрашивать
-respond | отвечать
-authenticate | аутентифицировать
-authorize | авторизовать
-log in | входить (в систему)
-log out | выходить (из системы)
-grant | предоставлять (доступ)
-revoke | отзывать (доступ)
-allocate | выделять (память)
-release memory | освобождать память
-flush | сбрасывать (буфер)
-cache | кэшировать
-queue | ставить в очередь
-schedule task | планировать задачу
-poll | опрашивать
-broadcast | транслировать
-route | маршрутизировать
-forward | пересылать
-proxy | проксировать
-mock | мокать / подменять
-stub | заглушать
-assert | утверждать / проверять
-benchmark | измерять производительность
-profile | профилировать
-trace | трассировать
-monitor | наблюдать / мониторить
-scale | масштабировать
-provision | подготавливать (ресурсы)
-rollback | откатывать
-patch | патчить / латать
-bump | повышать (версию)
-lint | проверять стиль кода
-commit | коммитить / фиксировать
-clone | клонировать
-fork | форкать / ответвлять
-rebase | перебазировать
-stash | прятать (изменения)
-checkout | переключаться (на ветку)
-pull | подтягивать (изменения)
-push | отправлять (изменения)
-tag | помечать тегом
-annotate | аннотировать
-serialize | сериализовать
-deserialize | десериализовать
-normalize | нормализовать
-sanitize | очищать / обеззараживать
-escape | экранировать
-truncate | усекать / обрезать
-round | округлять
-parse out | извлекать (парсингом)
-resolve | разрешать (зависимости)
-reject promise | отклонять (промис)
-await | ожидать (асинхронно)
-yield | возвращать поэтапно
-spawn | порождать (процесс)
-terminate | завершать
-kill | убивать (процесс)
-restart | перезапускать
-reboot | перезагружать
-boot | загружать (систему)
-mount | монтировать
-unmount | размонтировать
-format disk | форматировать диск
-partition | разбивать на разделы
-index | индексировать
-query | запрашивать (из БД)
-join tables | соединять таблицы
-aggregate | агрегировать
-migrate | мигрировать / переносить
-seed | наполнять (начальными данными)
-purge | очищать полностью
+to make | делать / создавать
+to do | делать
+to get | получать
+to go | идти / ехать
+to come | приходить
+to take | брать
+to give | давать
+to put | класть / помещать
+to keep | держать / сохранять
+to let | позволять
+to begin | начинать
+to start | начинать / запускать
+to finish | заканчивать
+to end | заканчивать
+to stop | останавливать
+to continue | продолжать
+to try | пытаться
+to use | использовать
+to work | работать
+to play | играть
+to run | бежать / запускать
+to walk | ходить
+to move | двигать / перемещать
+to turn | поворачивать
+to open | открывать
+to close | закрывать
+to build | строить / собирать
+to break | ломать
+to fix | чинить / исправлять
+to change | менять
+to add | добавлять
+to remove | удалять
+to create | создавать
+to destroy | уничтожать
+to choose | выбирать
+to select | выбирать
+to pick | выбирать / подбирать
+to find | находить
+to search | искать
+to look | смотреть
+to see | видеть
+to watch | смотреть / наблюдать
+to hear | слышать
+to listen | слушать
+to feel | чувствовать
+to think | думать
+to know | знать
+to understand | понимать
+to learn | учить / узнавать
+to teach | учить / преподавать
+to remember | помнить
+to forget | забывать
+to believe | верить
+to mean | означать
+to matter | иметь значение
+to need | нуждаться
+to want | хотеть
+to wish | желать
+to hope | надеяться
+to like | нравиться
+to love | любить
+to hate | ненавидеть
+to prefer | предпочитать
+to decide | решать
+to agree | соглашаться
+to refuse | отказывать
+to allow | разрешать
+to deny | отрицать / отказывать
+to accept | принимать
+to reject | отклонять
+to admit | признавать
+to explain | объяснять
+to describe | описывать
+to tell | рассказывать
+to say | говорить
+to speak | говорить
+to talk | разговаривать
+to ask | спрашивать
+to answer | отвечать
+to reply | отвечать
+to call | звонить / вызывать
+to write | писать
+to read | читать
+to draw | рисовать
+to paint | красить / рисовать
+to show | показывать
+to hide | прятать
+to appear | появляться
+to disappear | исчезать
+to happen | случаться
+to occur | происходить
+to seem | казаться
+to become | становиться
+to grow | расти
+to develop | развивать
+to improve | улучшать
+to increase | увеличивать
+to decrease | уменьшать
+to reduce | сокращать
+to raise | поднимать
+to lower | понижать
+to rise | подниматься
+to fall | падать
+to drop | ронять / падать
+to throw | бросать
+to catch | ловить
+to hold | держать
+to carry | нести
+to bring | приносить
+to send | отправлять
+to receive | получать
+to deliver | доставлять
+to buy | покупать
+to sell | продавать
+to pay | платить
+to cost | стоить
+to spend | тратить
+to save | экономить / сохранять
+to earn | зарабатывать
+to win | выигрывать
+to lose | проигрывать / терять
+to gain | приобретать
+to share | делиться
+to join | присоединять
+to connect | соединять
+to link | связывать
+to attach | прикреплять
+to separate | разделять
+to divide | делить
+to combine | объединять
+to mix | смешивать
+to fill | заполнять
+to empty | опустошать
+to cover | покрывать
+to wrap | оборачивать
+to cut | резать
+to tear | рвать
+to press | нажимать
+to push | толкать
+to pull | тянуть
+to lift | поднимать
+to drag | тащить / перетаскивать
+to drop off | высаживать / завозить
+to support | поддерживать
+to help | помогать
+to serve | обслуживать / служить
+to manage | управлять
+to control | контролировать
+to lead | вести / руководить
+to follow | следовать
+to guide | направлять
+to order | заказывать / приказывать
+to command | командовать
+to require | требовать
+to demand | требовать
+to provide | предоставлять
+to offer | предлагать
+to suggest | предлагать
+to recommend | рекомендовать
+to advise | советовать
+to warn | предупреждать
+to remind | напоминать
+to promise | обещать
+to plan | планировать
+to prepare | готовить
+to arrange | организовывать
+to organize | организовывать
+to collect | собирать
+to gather | собирать
+to sort | сортировать
+to arrange | упорядочивать
+to compare | сравнивать
+to match | сопоставлять
+to measure | измерять
+to count | считать
+to calculate | вычислять
+to estimate | оценивать
+to check | проверять
+to verify | проверять
+to confirm | подтверждать
+to test | тестировать
+to prove | доказывать
+to show off | хвастаться
+to notice | замечать
+to recognize | распознавать
+to identify | определять
+to discover | обнаруживать
+to detect | обнаруживать
+to report | сообщать / докладывать
+to announce | объявлять
+to publish | публиковать
+to share out | распределять
+to spread | распространять
+to avoid | избегать
+to prevent | предотвращать
+to protect | защищать
+to defend | защищать
+to attack | атаковать
+to fight | бороться
+to escape | сбегать
+to hide away | укрывать
+to return | возвращать
+to repeat | повторять
+to replace | заменять
+to update | обновлять
+to upgrade | повышать / улучшать
+to restore | восстанавливать
+to recover | восстанавливаться
+to repair | ремонтировать
+to maintain | поддерживать / обслуживать
+to clean | чистить
+to wash | мыть
+to cook | готовить
+to eat | есть
+to drink | пить
+to sleep | спать
+to wake | будить / просыпаться
+to rest | отдыхать
+to relax | расслабляться
+to enjoy | наслаждаться
+to celebrate | праздновать
+to travel | путешествовать
+to drive | водить / ехать
+to fly | летать
+to ride | ехать (верхом)
+to swim | плавать
+to jump | прыгать
+to climb | взбираться
+to fall down | падать
+to stand | стоять
+to sit | сидеть
+to lie | лежать
+to wait | ждать
+to stay | оставаться
+to leave | уходить / оставлять
+to arrive | прибывать
+to enter | входить
+to exit | выходить
+to visit | посещать
+to meet | встречать
+to introduce | представлять / знакомить
+to invite | приглашать
+to greet | приветствовать
+to thank | благодарить
+to apologize | извиняться
+to complain | жаловаться
+to argue | спорить
+to discuss | обсуждать
+to negotiate | вести переговоры
+to cooperate | сотрудничать
+to participate | участвовать
+to contribute | вносить вклад
+to involve | вовлекать
+to include | включать
+to exclude | исключать
+to contain | содержать
+to consist | состоять
+to belong | принадлежать
+to own | владеть
+to possess | обладать
+to borrow | брать в долг
+to lend | давать в долг
+to rent | арендовать
+to hire | нанимать
+to employ | нанимать
+to fire | увольнять
+to quit | увольняться / бросать
+to apply | подавать заявку / применять
+to register | регистрировать
+to sign | подписывать
+to fill in | заполнять
+to cancel | отменять
+to postpone | откладывать
+to delay | задерживать
+to schedule | планировать
+to book | бронировать
+to reserve | резервировать
+to implement | реализовывать / внедрять
+to deploy | развёртывать
+to release | выпускать / публиковать
+to launch | запускать
+to maintain | сопровождать
+to review | проверять / рецензировать
+to approve | одобрять
+to merge | сливать / объединять
+to split | разделять
+to extend | расширять
+to expand | расширять
+to shrink | сжимать
+to compress | сжимать
+to encrypt | шифровать
+to decrypt | расшифровывать
+to encode | кодировать
+to decode | декодировать
+to parse | разбирать / парсить
+to format | форматировать
+to validate | проверять / валидировать
+to filter | фильтровать
+to map | отображать / преобразовывать
+to reduce to | сводить к
+to iterate | итерировать / перебирать
+to loop | повторять в цикле
+to execute | выполнять
+to compile | компилировать
+to debug | отлаживать
+to refactor | рефакторить
+to optimize | оптимизировать
+to configure | настраивать
+to install | устанавливать
+to uninstall | удалять (программу)
+to import | импортировать
+to export | экспортировать
+to upload | загружать (на сервер)
+to download | скачивать
+to sync | синхронизировать
+to backup | делать резервную копию
+to restore from | восстанавливать из
+to override | переопределять
+to overwrite | перезаписывать
+to inherit | наследовать
+to extend from | наследовать от
+to throw | выбрасывать (исключение)
+to catch error | перехватывать ошибку
+to handle | обрабатывать
+to trigger | запускать / инициировать
+to emit | испускать / посылать (событие)
+to subscribe | подписываться
+to unsubscribe | отписываться
+to render | отрисовывать / рендерить
+to fetch | получать (данные)
+to request | запрашивать
+to respond | отвечать
+to authenticate | аутентифицировать
+to authorize | авторизовать
+to log in | входить (в систему)
+to log out | выходить (из системы)
+to grant | предоставлять (доступ)
+to revoke | отзывать (доступ)
+to allocate | выделять (память)
+to release memory | освобождать память
+to flush | сбрасывать (буфер)
+to cache | кэшировать
+to queue | ставить в очередь
+to schedule task | планировать задачу
+to poll | опрашивать
+to broadcast | транслировать
+to route | маршрутизировать
+to forward | пересылать
+to proxy | проксировать
+to mock | мокать / подменять
+to stub | заглушать
+to assert | утверждать / проверять
+to benchmark | измерять производительность
+to profile | профилировать
+to trace | трассировать
+to monitor | наблюдать / мониторить
+to scale | масштабировать
+to provision | подготавливать (ресурсы)
+to rollback | откатывать
+to patch | патчить / латать
+to bump | повышать (версию)
+to lint | проверять стиль кода
+to commit | коммитить / фиксировать
+to clone | клонировать
+to fork | форкать / ответвлять
+to rebase | перебазировать
+to stash | прятать (изменения)
+to checkout | переключаться (на ветку)
+to pull | подтягивать (изменения)
+to push | отправлять (изменения)
+to tag | помечать тегом
+to annotate | аннотировать
+to serialize | сериализовать
+to deserialize | десериализовать
+to normalize | нормализовать
+to sanitize | очищать / обеззараживать
+to escape | экранировать
+to truncate | усекать / обрезать
+to round | округлять
+to parse out | извлекать (парсингом)
+to resolve | разрешать (зависимости)
+to reject promise | отклонять (промис)
+to await | ожидать (асинхронно)
+to yield | возвращать поэтапно
+to spawn | порождать (процесс)
+to terminate | завершать
+to kill | убивать (процесс)
+to restart | перезапускать
+to reboot | перезагружать
+to boot | загружать (систему)
+to mount | монтировать
+to unmount | размонтировать
+to format disk | форматировать диск
+to partition | разбивать на разделы
+to index | индексировать
+to query | запрашивать (из БД)
+to join tables | соединять таблицы
+to aggregate | агрегировать
+to migrate | мигрировать / переносить
+to seed | наполнять (начальными данными)
+to purge | очищать полностью
 
 # === Прилагательные ===
 new | новый
@@ -1506,8 +1506,8 @@ glitch | сбой
 crash | сбой / падение
 freeze | зависание
 performance | производительность
-speed up | ускорять
-slow down | замедлять
+to speed up | ускорять
+to slow down | замедлять
 
 # === Программирование: базовые понятия ===
 code | код
@@ -1618,7 +1618,7 @@ setter | сеттер
 field | поле
 static method | статический метод
 instance method | метод экземпляра
-encapsulate | инкапсулировать
+to encapsulate | инкапсулировать
 composition | композиция
 generic | обобщённый тип
 template prog | шаблон
@@ -1997,7 +1997,7 @@ fork repo | форк
 pull git | подтягивание изменений
 push git | отправка изменений
 fetch git | получение изменений
-stage | индексировать
+to stage | индексировать
 staging area | область индексирования
 working directory | рабочая директория
 diff | различие
@@ -2143,90 +2143,90 @@ resolution | разрешение
 orientation | ориентация
 
 # === Фразовые глаголы (очень частотные) ===
-set up | настраивать / устанавливать
-shut down | выключать
-turn on | включать
-turn off | выключать
-log in to | входить в
-sign up | регистрироваться
-sign in | входить
-sign out | выходить
-back up | резервировать
-carry out | выполнять
-figure out | разбираться / выяснять
-find out | узнавать
-work out | разбираться / решать
-sort out | улаживать
-point out | указывать
-bring up | поднимать (тему)
-come up with | придумывать
-end up | в итоге оказаться
-give up | сдаваться
-go on | продолжать
-go through | проходить через / просматривать
-look up | искать (в справочнике)
-look into | изучать
-look for | искать
-look after | заботиться
-take care of | заботиться о
-take over | брать на себя
-take off | взлетать / снимать
-take out | вынимать
-put off | откладывать
-put up with | мириться с
-break down | ломаться / разбивать
-break up | расставаться / разбивать
-call off | отменять
-check out | проверять / выезжать
-check in | регистрироваться
-fill out | заполнять
-hand in | сдавать
-hand out | раздавать
-hold on | подождать / держаться
-keep up | поспевать
-keep on | продолжать
-move on | двигаться дальше
-pass on | передавать
-pick up | подбирать / забирать
-run out of | заканчиваться
-run into | случайно встретить
-show up | появляться
-throw away | выбрасывать
-turn out | оказываться
-turn down | отклонять / убавлять
-turn up | прибавлять / появляться
-get up | вставать
-get along | ладить
-get back | возвращаться
-get rid of | избавляться от
-get over | преодолевать
-go ahead | приступать
-go back | возвращаться
-come across | натыкаться на
-come back | возвращаться
-come in | входить
-deal with | иметь дело с
-focus on | сосредоточиться на
-rely on | полагаться на
-depend on | зависеть от
-result in | приводить к
-lead to | приводить к
-cut down on | сокращать
-catch up | догонять
-warm up | разогревать
-cool down | остывать
-speed up dev | ускорять
-slow down dev | замедлять
-roll out | выкатывать
-scale up | масштабировать вверх
-scale down | масштабировать вниз
-spin up | поднимать (сервер)
-tear down | разбирать / сносить
-opt in | подключаться
-opt out | отказываться
-phase out | постепенно убирать
-plug in | подключать
-roll back | откатывать
+to set up | настраивать / устанавливать
+to shut down | выключать
+to turn on | включать
+to turn off | выключать
+to log in to | входить в
+to sign up | регистрироваться
+to sign in | входить
+to sign out | выходить
+to back up | резервировать
+to carry out | выполнять
+to figure out | разбираться / выяснять
+to find out | узнавать
+to work out | разбираться / решать
+to sort out | улаживать
+to point out | указывать
+to bring up | поднимать (тему)
+to come up with | придумывать
+to end up | в итоге оказаться
+to give up | сдаваться
+to go on | продолжать
+to go through | проходить через / просматривать
+to look up | искать (в справочнике)
+to look into | изучать
+to look for | искать
+to look after | заботиться
+to take care of | заботиться о
+to take over | брать на себя
+to take off | взлетать / снимать
+to take out | вынимать
+to put off | откладывать
+to put up with | мириться с
+to break down | ломаться / разбивать
+to break up | расставаться / разбивать
+to call off | отменять
+to check out | проверять / выезжать
+to check in | регистрироваться
+to fill out | заполнять
+to hand in | сдавать
+to hand out | раздавать
+to hold on | подождать / держаться
+to keep up | поспевать
+to keep on | продолжать
+to move on | двигаться дальше
+to pass on | передавать
+to pick up | подбирать / забирать
+to run out of | заканчиваться
+to run into | случайно встретить
+to show up | появляться
+to throw away | выбрасывать
+to turn out | оказываться
+to turn down | отклонять / убавлять
+to turn up | прибавлять / появляться
+to get up | вставать
+to get along | ладить
+to get back | возвращаться
+to get rid of | избавляться от
+to get over | преодолевать
+to go ahead | приступать
+to go back | возвращаться
+to come across | натыкаться на
+to come back | возвращаться
+to come in | входить
+to deal with | иметь дело с
+to focus on | сосредоточиться на
+to rely on | полагаться на
+to depend on | зависеть от
+to result in | приводить к
+to lead to | приводить к
+to cut down on | сокращать
+to catch up | догонять
+to warm up | разогревать
+to cool down | остывать
+to speed up dev | ускорять
+to slow down dev | замедлять
+to roll out | выкатывать
+to scale up | масштабировать вверх
+to scale down | масштабировать вниз
+to spin up | поднимать (сервер)
+to tear down | разбирать / сносить
+to opt in | подключаться
+to opt out | отказываться
+to phase out | постепенно убирать
+to plug in | подключать
+to roll back | откатывать
 
 # === Полезные выражения и связки ===
 for example | например
@@ -2291,12 +2291,12 @@ a couple of | пара / несколько
 plenty of | множество
 the same as | такой же как
 as usual | как обычно
-make sense | иметь смысл
-make sure | убедиться
-take place | происходить
-take time | занимать время
-keep in mind | иметь в виду
-pay attention | обращать внимание
+to make sense | иметь смысл
+to make sure | убедиться
+to take place | происходить
+to take time | занимать время
+to keep in mind | иметь в виду
+to pay attention | обращать внимание
 on second thought | если подумать
 in the meantime | тем временем
 sooner or later | рано или поздно
@@ -2311,13 +2311,13 @@ edge case handling | обработка крайних случаев
 race to the bottom | гонка ко дну
 single source of truth | единый источник истины
 separation of duties | разделение обязанностей
-fail fast | быстро падать (при ошибке)
-fail gracefully | корректно обрабатывать сбой
+to fail fast | быстро падать (при ошибке)
+to fail gracefully | корректно обрабатывать сбой
 backward-compatible | обратно совместимый
 forward-compatible | совместимый с будущим
 plug and play | подключи и работай
 drag-and-drop interface | интерфейс перетаскивания
-copy and paste | копировать и вставить
+to copy and paste | копировать и вставить
 trial and error | метод проб и ошибок
 proof of concept | проверка концепции
 minimum viable product | минимально жизнеспособный продукт
@@ -2439,7 +2439,7 @@ comment | комментарий
 like social | лайк
 follower | подписчик
 feed | лента
-share social | поделиться
+to share social | поделиться
 tag social | отметка / тег
 hashtag | хештег
 link url | ссылка
@@ -2723,114 +2723,114 @@ original | оригинал
 version thing | вариант / версия
 
 # === Дополнительные глаголы ===
-consider | рассматривать
-assume | предполагать
-expect | ожидать
-suppose | полагать
-imagine | представлять
-guess | угадывать / предполагать
-realize | осознавать
-wonder | интересоваться / гадать
-mention | упоминать
-note down | записывать
-define | определять
-refer | ссылаться
-relate | связывать / относиться
-apply to | относиться к
-affect | влиять
-depend | зависеть
-cause to | вызывать
-allow for | учитывать
-indicate | указывать
-imply | подразумевать
-reveal | раскрывать
-expose | раскрывать / подвергать
-demonstrate | демонстрировать
-illustrate | иллюстрировать
-clarify | прояснять
-emphasize | подчёркивать
-highlight | выделять
-focus | сосредотачивать
-ignore | игнорировать
-skip | пропускать
-omit | опускать / пропускать
-delay action | откладывать
-hesitate | колебаться
-struggle | бороться / с трудом справляться
-manage to | суметь
-succeed | преуспевать
-fail | терпеть неудачу
-afford | позволять себе
-deserve | заслуживать
-owe | быть должным
-predict | предсказывать
-prevent from | мешать
-encourage | поощрять
-motivate | мотивировать
-inspire | вдохновлять
-convince | убеждать
-persuade | уговаривать
-influence verb | влиять
-impress | впечатлять
-satisfy | удовлетворять
-disappoint | разочаровывать
-surprise verb | удивлять
-confuse | сбивать с толку
-bother | беспокоить
-annoy | раздражать
-frustrate | расстраивать
-threaten | угрожать
-blame | обвинять
-accuse | обвинять
-forgive | прощать
-trust verb | доверять
-suspect | подозревать
-ensure | обеспечивать
-guarantee | гарантировать
-remain | оставаться
-exist | существовать
-occur to | приходить в голову
-arise | возникать
-involve in | вовлекать в
-consist of | состоять из
-depend upon | полагаться на
-contribute to | способствовать
-react | реагировать
-respond to | отвечать на
-adapt | адаптировать
-adjust | регулировать / настраивать
-modify | изменять
-transform | преобразовывать
-convert | преобразовывать
-translate | переводить
-interpret | интерпретировать
-represent | представлять
-reflect | отражать
-contain within | содержать в себе
-generate | генерировать
-produce | производить
-construct | конструировать
-assemble | собирать
-disassemble | разбирать
-combine into | объединять в
-integrate | интегрировать
-coordinate | координировать
-synchronize | синхронизировать
-align | выравнивать
-distribute | распределять
-assign | назначать
-delegate | делегировать
-prioritize | расставлять приоритеты
-evaluate | оценивать
-assess | оценивать
-analyze | анализировать
-investigate | расследовать
-examine | исследовать
-inspect | осматривать
-observe | наблюдать
-record action | записывать / фиксировать
-track | отслеживать
-measure out | отмерять
+to consider | рассматривать
+to assume | предполагать
+to expect | ожидать
+to suppose | полагать
+to imagine | представлять
+to guess | угадывать / предполагать
+to realize | осознавать
+to wonder | интересоваться / гадать
+to mention | упоминать
+to note down | записывать
+to define | определять
+to refer | ссылаться
+to relate | связывать / относиться
+to apply to | относиться к
+to affect | влиять
+to depend | зависеть
+to cause to | вызывать
+to allow for | учитывать
+to indicate | указывать
+to imply | подразумевать
+to reveal | раскрывать
+to expose | раскрывать / подвергать
+to demonstrate | демонстрировать
+to illustrate | иллюстрировать
+to clarify | прояснять
+to emphasize | подчёркивать
+to highlight | выделять
+to focus | сосредотачивать
+to ignore | игнорировать
+to skip | пропускать
+to omit | опускать / пропускать
+to delay action | откладывать
+to hesitate | колебаться
+to struggle | бороться / с трудом справляться
+to manage to | суметь
+to succeed | преуспевать
+to fail | терпеть неудачу
+to afford | позволять себе
+to deserve | заслуживать
+to owe | быть должным
+to predict | предсказывать
+to prevent from | мешать
+to encourage | поощрять
+to motivate | мотивировать
+to inspire | вдохновлять
+to convince | убеждать
+to persuade | уговаривать
+to influence verb | влиять
+to impress | впечатлять
+to satisfy | удовлетворять
+to disappoint | разочаровывать
+to surprise verb | удивлять
+to confuse | сбивать с толку
+to bother | беспокоить
+to annoy | раздражать
+to frustrate | расстраивать
+to threaten | угрожать
+to blame | обвинять
+to accuse | обвинять
+to forgive | прощать
+to trust verb | доверять
+to suspect | подозревать
+to ensure | обеспечивать
+to guarantee | гарантировать
+to remain | оставаться
+to exist | существовать
+to occur to | приходить в голову
+to arise | возникать
+to involve in | вовлекать в
+to consist of | состоять из
+to depend upon | полагаться на
+to contribute to | способствовать
+to react | реагировать
+to respond to | отвечать на
+to adapt | адаптировать
+to adjust | регулировать / настраивать
+to modify | изменять
+to transform | преобразовывать
+to convert | преобразовывать
+to translate | переводить
+to interpret | интерпретировать
+to represent | представлять
+to reflect | отражать
+to contain within | содержать в себе
+to generate | генерировать
+to produce | производить
+to construct | конструировать
+to assemble | собирать
+to disassemble | разбирать
+to combine into | объединять в
+to integrate | интегрировать
+to coordinate | координировать
+to synchronize | синхронизировать
+to align | выравнивать
+to distribute | распределять
+to assign | назначать
+to delegate | делегировать
+to prioritize | расставлять приоритеты
+to evaluate | оценивать
+to assess | оценивать
+to analyze | анализировать
+to investigate | расследовать
+to examine | исследовать
+to inspect | осматривать
+to observe | наблюдать
+to record action | записывать / фиксировать
+to track | отслеживать
+to measure out | отмерять
 
 # === Дополнительные технические термины ===
 codebase | кодовая база
@@ -3091,7 +3091,7 @@ peer | коллега / равный
 cross-functional | межфункциональный
 deliverable | результат работы
 artifact | артефакт
-deliver value | приносить ценность
+to deliver value | приносить ценность
 prioritization | расстановка приоритетов
 estimation | оценка трудозатрат
 velocity | скорость команды

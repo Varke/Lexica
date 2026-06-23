@@ -19,7 +19,8 @@ export function Nav({ email }: { email: string }) {
     <header className="sticky top-0 z-40 border-b bg-background/80 backdrop-blur">
       <div className="mx-auto flex h-14 max-w-5xl items-center gap-1 px-4">
         <Link href="/decks" className="mr-4 flex items-center gap-2 font-semibold">
-          <span className="text-lg">📚</span>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/lexica_logo.svg" alt="" className="h-6 w-auto" />
           <span>Lexica</span>
         </Link>
 

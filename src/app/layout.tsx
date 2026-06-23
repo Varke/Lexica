@@ -13,9 +13,26 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const title = "Lexica — интервальное повторение слов";
+const description = "Учите английские слова карточками с алгоритмом FSRS";
+
 export const metadata: Metadata = {
-  title: "Lexica — интервальное повторение слов",
-  description: "Учите английские слова карточками с алгоритмом FSRS",
+  metadataBase: new URL("https://anki-opal.vercel.app"),
+  title,
+  description,
+  openGraph: {
+    title,
+    description,
+    url: "/",
+    siteName: "Lexica",
+    locale: "ru_RU",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title,
+    description,
+  },
 };
 
 export default function RootLayout({
